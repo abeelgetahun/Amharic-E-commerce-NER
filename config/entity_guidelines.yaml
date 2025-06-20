@@ -1,0 +1,40 @@
+# Project settings (API keys, paths, etc.)
+entity_guidelines:
+  product:
+    description: "Items for sale or trade"
+    examples:
+      - "ሸሚዝ"
+      - "ቡና"
+      - "ስልክ"
+      - "መጽሀፍ"
+    patterns:
+      - "product_name + description"
+      - "brand + product_type"
+    
+  location:
+    description: "Geographic locations, addresses, delivery areas"
+    examples:
+      - "አዲስ አበባ"
+      - "ቦሌ"
+      - "መገናኛ"
+    patterns:
+      - "city_name"
+      - "district_name"
+      - "area + subcity"
+    
+  price:
+    description: "Monetary values, costs, fees"
+    examples:
+      - "1000 ብር"
+      - "ዋጋ 500"
+      - "በ 200 ብር"
+    patterns:
+      - "number + currency"
+      - "price_indicator + amount"
+
+labeling_best_practices:
+  - "Label complete entities (don't split meaningful units)"
+  - "Use B- for the first token of an entity"
+  - "Use I- for continuation tokens"
+  - "Be consistent with entity boundaries"
+  - "When in doubt, prefer longer spans over shorter ones"
