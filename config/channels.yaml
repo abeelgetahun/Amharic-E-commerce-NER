@@ -1,0 +1,95 @@
+#list of Telegram channel  
+telegram_channels:
+  
+  - name: "Zemen Express®"
+    username: "ZemenExpress"
+    category: "general_ecommerce"
+    priority: 1
+  - name: "NEVA COMPUTER®"
+    username: "nevacomputer"
+    category: "Electronics"
+    priority: 1
+  - name: "መነሻዬ"
+    username: "meneshayeofficial"
+    category: "local_business"
+    priority: 2
+  - name: "EthioBrand®"
+    username: "ethio_brand_collection"
+    category: "Shoe_and_cloth"
+    priority: 2
+  - name: "ልዩ እቃ"
+    username: "Leyueqa"
+    category: "gadgets"
+    priority: 3
+
+  - name: "Shewa Brand"
+    username: "Shewabrand"
+    category: "general_ecommerce"
+    priority: 1
+  - name: "HellooMarket"
+    username: "helloomarketethiopia"
+    category: "general_ecommerce"
+    priority: 1
+  - name: "ሞደርን ሾፒንግ ሴንተር MODERN SHOPPING "
+    username: "modernshoppingcenter"
+    category: "general_ecommerce"
+    priority: 2
+  - name: "qnash.com - ቅናሽ ®️"
+    username: "qnashcom"
+    category: "general_ecommerce"
+    priority: 2
+  - name: "Fashion tera"
+    username: "Fashiontera"
+    category: "Shoe_and_cloth"
+    priority: 3
+
+  - name: "ኩሩ/kuru/ 🇪🇹 wear ®️"
+    username: "kuruwear"
+    category: "gadgets"
+    priority: 3
+  - name: "አዳማ ገበያ - Adama gebeya"
+    username: "gebeyaadama"
+    category: "general_ecommerce"
+    priority: 3
+
+  - name: "4Free Market🇪🇹"
+    username: "forfreemarket"
+    category: "general_ecommerce"
+    priority: 3
+  - name: "CLASSY BRAND ®"
+    username: "classybrands"
+    category: "Shoe_and_cloth"
+    priority: 3
+  - name: "ማራኪ ცЯﾑŋの™"
+    username: "marakibrand"
+    category: "Shoe_and_cloth"
+    priority: 3
+  - name: "ⒶⓇⒶⒹⒶ ⒷⓇⒶⓃⒹ"
+    username: "aradabrand2"
+    category: "Shoe_and_cloth"
+    priority: 3
+  - name: "🇪🇹 📡 MARAKI BRANDS🌍🏆"
+    username: "@marakisat2"
+    category: "Electronics"
+    priority: 3
+  - name: "BELLA CLASSIC®"
+    username: "belaclassic"
+    category: "Shoe_and_cloth"
+    priority: 3
+  - name: "AwasMart-አዋስማርት🎁"
+    username: "AwasMart"
+    category: "general_ecommerce"
+    priority: 3
+  - name: "qnash.com - ቅናሽ ®️"
+    username: "qnashcom"
+    category: "general_ecommerce"
+    priority: 3
+
+scraping_config:
+  max_messages_per_channel: 1000
+  date_range_days: 60
+  include_media: true
+  retry_attempts: 3
+  delay_between_requests: 2
+
+ 
