@@ -1,0 +1,1 @@
+# Script to calculate the final lending score
