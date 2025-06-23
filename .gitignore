@@ -12,7 +12,7 @@ __pycache__/
 # Distribution / packaging
 .Python
 env/
-venv/
+.venv_py311/
 lib/
 data/
 build/
