@@ -1,0 +1,122 @@
+2025-06-21 09:51:57,376 - INFO - Telegram client session started successfully
+2025-06-21 09:51:57,379 - INFO - Attempting to scrape channel: ZemenExpress
+2025-06-21 09:51:57,681 - INFO - Starting to scrape channel: ZemenExpress
+2025-06-21 09:51:57,682 - INFO - Scraping messages from 2025-04-22T06:51:57.682905+00:00 to 2025-06-21T06:51:57.682905+00:00
+2025-06-21 09:51:58,506 - INFO - Reached messages older than 2025-04-22T06:51:57.682905+00:00 for ZemenExpress. Stopping.
+2025-06-21 09:51:58,507 - INFO - Completed scraping ZemenExpress: 0 messages
+2025-06-21 09:51:58,509 - WARNING - No messages scraped or error occurred for channel: ZemenExpress
+2025-06-21 09:51:58,510 - INFO - Attempting to scrape channel: nevacomputer
+2025-06-21 09:51:58,838 - INFO - Starting to scrape channel: nevacomputer
+2025-06-21 09:51:58,839 - INFO - Scraping messages from 2025-04-22T06:51:58.839020+00:00 to 2025-06-21T06:51:58.839020+00:00
+2025-06-21 09:51:59,174 - INFO - Reached messages older than 2025-04-22T06:51:58.839020+00:00 for nevacomputer. Stopping.
+2025-06-21 09:51:59,176 - INFO - Completed scraping nevacomputer: 0 messages
+2025-06-21 09:51:59,177 - WARNING - No messages scraped or error occurred for channel: nevacomputer
+2025-06-21 09:51:59,178 - INFO - Attempting to scrape channel: meneshayeofficial
+2025-06-21 09:51:59,424 - INFO - Starting to scrape channel: meneshayeofficial
+2025-06-21 09:51:59,426 - INFO - Scraping messages from 2025-04-22T06:51:59.426414+00:00 to 2025-06-21T06:51:59.426414+00:00
+2025-06-21 09:52:00,179 - INFO - Reached messages older than 2025-04-22T06:51:59.426414+00:00 for meneshayeofficial. Stopping.
+2025-06-21 09:52:00,179 - INFO - Completed scraping meneshayeofficial: 0 messages
+2025-06-21 09:52:00,180 - WARNING - No messages scraped or error occurred for channel: meneshayeofficial
+2025-06-21 09:52:00,181 - INFO - Attempting to scrape channel: ethio_brand_collection
+2025-06-21 09:52:00,475 - INFO - Starting to scrape channel: ethio_brand_collection
+2025-06-21 09:52:00,478 - INFO - Scraping messages from 2025-04-22T06:52:00.477442+00:00 to 2025-06-21T06:52:00.477442+00:00
+2025-06-21 09:52:00,840 - INFO - Reached messages older than 2025-04-22T06:52:00.477442+00:00 for ethio_brand_collection. Stopping.
+2025-06-21 09:52:00,841 - INFO - Completed scraping ethio_brand_collection: 0 messages
+2025-06-21 09:52:00,842 - WARNING - No messages scraped or error occurred for channel: ethio_brand_collection
+2025-06-21 09:52:00,843 - INFO - Attempting to scrape channel: Leyueqa
+2025-06-21 09:52:01,163 - INFO - Starting to scrape channel: Leyueqa
+2025-06-21 09:52:01,164 - INFO - Scraping messages from 2025-04-22T06:52:01.164228+00:00 to 2025-06-21T06:52:01.164228+00:00
+2025-06-21 09:52:01,957 - INFO - Reached messages older than 2025-04-22T06:52:01.164228+00:00 for Leyueqa. Stopping.
+2025-06-21 09:52:01,958 - INFO - Completed scraping Leyueqa: 0 messages
+2025-06-21 09:52:01,959 - WARNING - No messages scraped or error occurred for channel: Leyueqa
+2025-06-21 09:52:01,960 - INFO - Attempting to scrape channel: Shewabrand
+2025-06-21 09:52:02,169 - INFO - Starting to scrape channel: Shewabrand
+2025-06-21 09:52:02,170 - INFO - Scraping messages from 2025-04-22T06:52:02.170999+00:00 to 2025-06-21T06:52:02.170999+00:00
+2025-06-21 09:52:02,608 - INFO - Reached messages older than 2025-04-22T06:52:02.170999+00:00 for Shewabrand. Stopping.
+2025-06-21 09:52:02,609 - INFO - Completed scraping Shewabrand: 0 messages
+2025-06-21 09:52:02,610 - WARNING - No messages scraped or error occurred for channel: Shewabrand
+2025-06-21 09:52:02,611 - INFO - Attempting to scrape channel: helloomarketethiopia
+2025-06-21 09:52:02,882 - INFO - Starting to scrape channel: helloomarketethiopia
+2025-06-21 09:52:02,883 - INFO - Scraping messages from 2025-04-22T06:52:02.883217+00:00 to 2025-06-21T06:52:02.883217+00:00
+2025-06-21 09:52:03,377 - INFO - Reached messages older than 2025-04-22T06:52:02.883217+00:00 for helloomarketethiopia. Stopping.
+2025-06-21 09:52:03,378 - INFO - Completed scraping helloomarketethiopia: 0 messages
+2025-06-21 09:52:03,379 - WARNING - No messages scraped or error occurred for channel: helloomarketethiopia
+2025-06-21 09:52:03,381 - INFO - Attempting to scrape channel: modernshoppingcenter
+2025-06-21 09:52:03,622 - INFO - Starting to scrape channel: modernshoppingcenter
+2025-06-21 09:52:03,624 - INFO - Scraping messages from 2025-04-22T06:52:03.624617+00:00 to 2025-06-21T06:52:03.624617+00:00
+2025-06-21 09:52:04,072 - INFO - Reached messages older than 2025-04-22T06:52:03.624617+00:00 for modernshoppingcenter. Stopping.
+2025-06-21 09:52:04,073 - INFO - Completed scraping modernshoppingcenter: 0 messages
+2025-06-21 09:52:04,074 - WARNING - No messages scraped or error occurred for channel: modernshoppingcenter
+2025-06-21 09:52:04,075 - INFO - Attempting to scrape channel: qnashcom
+2025-06-21 09:52:04,344 - INFO - Starting to scrape channel: qnashcom
+2025-06-21 09:52:04,345 - INFO - Scraping messages from 2025-04-22T06:52:04.345908+00:00 to 2025-06-21T06:52:04.345908+00:00
+2025-06-21 09:52:05,159 - INFO - Reached messages older than 2025-04-22T06:52:04.345908+00:00 for qnashcom. Stopping.
+2025-06-21 09:52:05,160 - INFO - Completed scraping qnashcom: 0 messages
+2025-06-21 09:52:05,161 - WARNING - No messages scraped or error occurred for channel: qnashcom
+2025-06-21 09:52:05,162 - INFO - Attempting to scrape channel: Fashiontera
+2025-06-21 09:52:05,465 - INFO - Starting to scrape channel: Fashiontera
+2025-06-21 09:52:05,466 - INFO - Scraping messages from 2025-04-22T06:52:05.466633+00:00 to 2025-06-21T06:52:05.466633+00:00
+2025-06-21 09:52:05,827 - INFO - Reached messages older than 2025-04-22T06:52:05.466633+00:00 for Fashiontera. Stopping.
+2025-06-21 09:52:05,828 - INFO - Completed scraping Fashiontera: 0 messages
+2025-06-21 09:52:05,829 - WARNING - No messages scraped or error occurred for channel: Fashiontera
+2025-06-21 09:52:05,830 - INFO - Attempting to scrape channel: kuruwear
+2025-06-21 09:52:06,079 - INFO - Starting to scrape channel: kuruwear
+2025-06-21 09:52:06,081 - INFO - Scraping messages from 2025-04-22T06:52:06.080079+00:00 to 2025-06-21T06:52:06.080079+00:00
+2025-06-21 09:52:06,619 - INFO - Reached messages older than 2025-04-22T06:52:06.080079+00:00 for kuruwear. Stopping.
+2025-06-21 09:52:06,620 - INFO - Completed scraping kuruwear: 0 messages
+2025-06-21 09:52:06,621 - WARNING - No messages scraped or error occurred for channel: kuruwear
+2025-06-21 09:52:06,622 - INFO - Attempting to scrape channel: gebeyaadama	
+2025-06-21 09:52:06,899 - INFO - Starting to scrape channel: gebeyaadama	
+2025-06-21 09:52:06,900 - INFO - Scraping messages from 2025-04-22T06:52:06.900744+00:00 to 2025-06-21T06:52:06.900744+00:00
+2025-06-21 09:52:07,402 - INFO - Reached messages older than 2025-04-22T06:52:06.900744+00:00 for gebeyaadama	. Stopping.
+2025-06-21 09:52:07,403 - INFO - Completed scraping gebeyaadama	: 0 messages
+2025-06-21 09:52:07,404 - WARNING - No messages scraped or error occurred for channel: gebeyaadama	
+2025-06-21 09:52:07,405 - INFO - Attempting to scrape channel: https://t.me/forfreemarket
+2025-06-21 09:52:07,660 - INFO - Starting to scrape channel: https://t.me/forfreemarket
+2025-06-21 09:52:07,661 - INFO - Scraping messages from 2025-04-22T06:52:07.661269+00:00 to 2025-06-21T06:52:07.661269+00:00
+2025-06-21 09:52:08,044 - INFO - Reached messages older than 2025-04-22T06:52:07.661269+00:00 for https://t.me/forfreemarket. Stopping.
+2025-06-21 09:52:08,046 - INFO - Completed scraping https://t.me/forfreemarket: 0 messages
+2025-06-21 09:52:08,046 - WARNING - No messages scraped or error occurred for channel: https://t.me/forfreemarket
+2025-06-21 09:52:08,047 - INFO - Attempting to scrape channel: classybrands
+2025-06-21 09:52:08,346 - INFO - Starting to scrape channel: classybrands
+2025-06-21 09:52:08,348 - INFO - Scraping messages from 2025-04-22T06:52:08.348385+00:00 to 2025-06-21T06:52:08.348385+00:00
+2025-06-21 09:52:08,727 - INFO - Reached messages older than 2025-04-22T06:52:08.348385+00:00 for classybrands. Stopping.
+2025-06-21 09:52:08,729 - INFO - Completed scraping classybrands: 0 messages
+2025-06-21 09:52:08,730 - WARNING - No messages scraped or error occurred for channel: classybrands
+2025-06-21 09:52:08,731 - INFO - Attempting to scrape channel: marakibrand
+2025-06-21 09:52:09,055 - INFO - Starting to scrape channel: marakibrand
+2025-06-21 09:52:09,057 - INFO - Scraping messages from 2025-04-22T06:52:09.057175+00:00 to 2025-06-21T06:52:09.057175+00:00
+2025-06-21 09:52:09,415 - INFO - Reached messages older than 2025-04-22T06:52:09.057175+00:00 for marakibrand. Stopping.
+2025-06-21 09:52:09,416 - INFO - Completed scraping marakibrand: 0 messages
+2025-06-21 09:52:09,417 - WARNING - No messages scraped or error occurred for channel: marakibrand
+2025-06-21 09:52:09,418 - INFO - Attempting to scrape channel: aradabrand2
+2025-06-21 09:52:09,803 - INFO - Starting to scrape channel: aradabrand2
+2025-06-21 09:52:09,805 - INFO - Scraping messages from 2025-04-22T06:52:09.805172+00:00 to 2025-06-21T06:52:09.805172+00:00
+2025-06-21 09:52:10,472 - INFO - Reached messages older than 2025-04-22T06:52:09.805172+00:00 for aradabrand2. Stopping.
+2025-06-21 09:52:10,472 - INFO - Completed scraping aradabrand2: 0 messages
+2025-06-21 09:52:10,473 - WARNING - No messages scraped or error occurred for channel: aradabrand2
+2025-06-21 09:52:10,474 - INFO - Attempting to scrape channel: @marakisat2
+2025-06-21 09:52:10,791 - INFO - Starting to scrape channel: @marakisat2
+2025-06-21 09:52:10,793 - INFO - Scraping messages from 2025-04-22T06:52:10.793754+00:00 to 2025-06-21T06:52:10.793754+00:00
+2025-06-21 09:52:11,141 - INFO - Reached messages older than 2025-04-22T06:52:10.793754+00:00 for @marakisat2. Stopping.
+2025-06-21 09:52:11,143 - INFO - Completed scraping @marakisat2: 0 messages
+2025-06-21 09:52:11,144 - WARNING - No messages scraped or error occurred for channel: @marakisat2
+2025-06-21 09:52:11,145 - INFO - Attempting to scrape channel: belaclassic
+2025-06-21 09:52:11,401 - INFO - Starting to scrape channel: belaclassic
+2025-06-21 09:52:11,402 - INFO - Scraping messages from 2025-04-22T06:52:11.402591+00:00 to 2025-06-21T06:52:11.402591+00:00
+2025-06-21 09:52:11,895 - INFO - Reached messages older than 2025-04-22T06:52:11.402591+00:00 for belaclassic. Stopping.
+2025-06-21 09:52:11,896 - INFO - Completed scraping belaclassic: 0 messages
+2025-06-21 09:52:11,897 - WARNING - No messages scraped or error occurred for channel: belaclassic
+2025-06-21 09:52:11,898 - INFO - Attempting to scrape channel: AwasMart
+2025-06-21 09:52:12,123 - INFO - Starting to scrape channel: AwasMart
+2025-06-21 09:52:12,125 - INFO - Scraping messages from 2025-04-22T06:52:12.125318+00:00 to 2025-06-21T06:52:12.125318+00:00
+2025-06-21 09:52:12,634 - INFO - Reached messages older than 2025-04-22T06:52:12.125318+00:00 for AwasMart. Stopping.
+2025-06-21 09:52:12,635 - INFO - Completed scraping AwasMart: 0 messages
+2025-06-21 09:52:12,636 - WARNING - No messages scraped or error occurred for channel: AwasMart
+2025-06-21 09:52:12,637 - INFO - Attempting to scrape channel: qnashcom
+2025-06-21 09:52:13,040 - INFO - Starting to scrape channel: qnashcom
+2025-06-21 09:52:13,041 - INFO - Scraping messages from 2025-04-22T06:52:13.041398+00:00 to 2025-06-21T06:52:13.041398+00:00
+2025-06-21 09:52:13,631 - INFO - Reached messages older than 2025-04-22T06:52:13.041398+00:00 for qnashcom. Stopping.
+2025-06-21 09:52:13,632 - INFO - Completed scraping qnashcom: 0 messages
+2025-06-21 09:52:13,633 - WARNING - No messages scraped or error occurred for channel: qnashcom
+2025-06-21 09:52:13,641 - INFO - Telegram client session closed

@@ -1,0 +1,570 @@
+2025-06-21 01:03:46,329 - task_1 - INFO - Starting Task 1: Data Ingestion and Preprocessing
+2025-06-21 01:03:46,406 - task_1 - ERROR - Error in Task 1: [Errno 2] No such file or directory: 'config/channels.yaml'
+2025-06-21 01:05:58,269 - task_1 - INFO - Starting Task 1: Data Ingestion and Preprocessing
+2025-06-21 01:05:58,302 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-06-21 01:05:59,852 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-06-21 01:08:52,957 - task_1 - INFO - Starting Task 1: Data Ingestion and Preprocessing
+2025-06-21 01:08:53,000 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-06-21 01:08:53,205 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-06-21 01:09:10,937 - telethon.client.users - INFO - Phone migrated to 4
+2025-06-21 01:09:11,133 - telethon.client.telegrambaseclient - INFO - Reconnecting to new data center 4
+2025-06-21 01:09:11,338 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2025-06-21 01:09:11,340 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2025-06-21 01:09:11,340 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-06-21 01:09:13,248 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-06-21 01:10:24,266 - task_1 - INFO - Starting Task 1: Data Ingestion and Preprocessing
+2025-06-21 01:10:24,299 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-06-21 01:10:24,482 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-06-21 01:10:41,135 - telethon.client.users - WARNING - Telegram is having internal issues AuthRestartError: Restart the authorization process (caused by SendCodeRequest)
+2025-06-21 01:11:45,084 - task_1 - ERROR - Error in Task 1: Returned when all available options for this type of number were already used (e.g. flash-call, then SMS, then this error might be returned to trigger a second resend) (caused by ResendCodeRequest)
+2025-06-21 01:12:06,386 - task_1 - INFO - Starting Task 1: Data Ingestion and Preprocessing
+2025-06-21 01:12:06,414 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-06-21 01:12:06,607 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-06-21 01:14:44,457 - telethon.client.users - WARNING - Telegram is having internal issues AuthRestartError: Restart the authorization process (caused by SendCodeRequest)
+2025-06-21 01:14:59,395 - telegram_scraper - INFO - Telegram client session started successfully
+2025-06-21 01:14:59,395 - telegram_scraper - INFO - Starting scrape for channel: ZemenExpress
+2025-06-21 01:14:59,597 - telegram_scraper - INFO - Starting to scrape channel: ZemenExpress
+2025-06-21 01:15:00,203 - telegram_scraper - ERROR - Error scraping ZemenExpress: can't compare offset-naive and offset-aware datetimes
+2025-06-21 01:15:00,205 - telegram_scraper - INFO - Saved 0 messages for channel ZemenExpress
+2025-06-21 01:15:00,205 - telegram_scraper - INFO - Starting scrape for channel: nevacomputer
+2025-06-21 01:15:00,398 - telegram_scraper - INFO - Starting to scrape channel: nevacomputer
+2025-06-21 01:15:00,983 - telegram_scraper - ERROR - Error scraping nevacomputer: can't compare offset-naive and offset-aware datetimes
+2025-06-21 01:15:00,985 - telegram_scraper - INFO - Saved 0 messages for channel nevacomputer
+2025-06-21 01:15:00,985 - telegram_scraper - INFO - Starting scrape for channel: meneshayeofficial
+2025-06-21 01:15:01,185 - telegram_scraper - INFO - Starting to scrape channel: meneshayeofficial
+2025-06-21 01:15:01,874 - telegram_scraper - ERROR - Error scraping meneshayeofficial: can't compare offset-naive and offset-aware datetimes
+2025-06-21 01:15:01,876 - telegram_scraper - INFO - Saved 0 messages for channel meneshayeofficial
+2025-06-21 01:15:01,877 - telegram_scraper - INFO - Starting scrape for channel: ethio_brand_collection
+2025-06-21 01:15:02,112 - telegram_scraper - INFO - Starting to scrape channel: ethio_brand_collection
+2025-06-21 01:15:02,551 - telegram_scraper - ERROR - Error scraping ethio_brand_collection: can't compare offset-naive and offset-aware datetimes
+2025-06-21 01:15:02,552 - telegram_scraper - INFO - Saved 0 messages for channel ethio_brand_collection
+2025-06-21 01:15:02,553 - telegram_scraper - INFO - Starting scrape for channel: Leyueqa
+2025-06-21 01:15:02,754 - telegram_scraper - INFO - Starting to scrape channel: Leyueqa
+2025-06-21 01:15:03,513 - telegram_scraper - ERROR - Error scraping Leyueqa: can't compare offset-naive and offset-aware datetimes
+2025-06-21 01:15:03,514 - telegram_scraper - INFO - Saved 0 messages for channel Leyueqa
+2025-06-21 01:15:03,515 - telegram_scraper - INFO - Starting scrape for channel: Shewabrand
+2025-06-21 01:15:03,826 - telegram_scraper - INFO - Starting to scrape channel: Shewabrand
+2025-06-21 01:15:04,354 - telegram_scraper - ERROR - Error scraping Shewabrand: can't compare offset-naive and offset-aware datetimes
+2025-06-21 01:15:04,356 - telegram_scraper - INFO - Saved 0 messages for channel Shewabrand
+2025-06-21 01:15:04,356 - telegram_scraper - INFO - Starting scrape for channel: helloomarketethiopia
+2025-06-21 01:15:04,647 - telegram_scraper - INFO - Starting to scrape channel: helloomarketethiopia
+2025-06-21 01:15:05,187 - telegram_scraper - ERROR - Error scraping helloomarketethiopia: can't compare offset-naive and offset-aware datetimes
+2025-06-21 01:15:05,189 - telegram_scraper - INFO - Saved 0 messages for channel helloomarketethiopia
+2025-06-21 01:15:05,189 - telegram_scraper - INFO - Starting scrape for channel: modernshoppingcenter
+2025-06-21 01:15:05,672 - telegram_scraper - INFO - Starting to scrape channel: modernshoppingcenter
+2025-06-21 01:15:06,248 - telegram_scraper - ERROR - Error scraping modernshoppingcenter: can't compare offset-naive and offset-aware datetimes
+2025-06-21 01:15:06,249 - telegram_scraper - INFO - Saved 0 messages for channel modernshoppingcenter
+2025-06-21 01:15:06,249 - telegram_scraper - INFO - Starting scrape for channel: qnashcom
+2025-06-21 01:15:06,497 - telegram_scraper - INFO - Starting to scrape channel: qnashcom
+2025-06-21 01:15:07,079 - telegram_scraper - ERROR - Error scraping qnashcom: can't compare offset-naive and offset-aware datetimes
+2025-06-21 01:15:07,080 - telegram_scraper - INFO - Saved 0 messages for channel qnashcom
+2025-06-21 01:15:07,081 - telegram_scraper - INFO - Starting scrape for channel: Fashiontera
+2025-06-21 01:15:07,317 - telegram_scraper - INFO - Starting to scrape channel: Fashiontera
+2025-06-21 01:15:07,713 - telegram_scraper - ERROR - Error scraping Fashiontera: can't compare offset-naive and offset-aware datetimes
+2025-06-21 01:15:07,715 - telegram_scraper - INFO - Saved 0 messages for channel Fashiontera
+2025-06-21 01:15:07,715 - telegram_scraper - INFO - Starting scrape for channel: kuruwear
+2025-06-21 01:15:07,906 - telegram_scraper - INFO - Starting to scrape channel: kuruwear
+2025-06-21 01:15:08,316 - telegram_scraper - ERROR - Error scraping kuruwear: can't compare offset-naive and offset-aware datetimes
+2025-06-21 01:15:08,317 - telegram_scraper - INFO - Saved 0 messages for channel kuruwear
+2025-06-21 01:15:08,318 - telegram_scraper - INFO - Starting scrape for channel: gebeyaadama	
+2025-06-21 01:15:08,555 - telegram_scraper - INFO - Starting to scrape channel: gebeyaadama	
+2025-06-21 01:15:08,970 - telegram_scraper - ERROR - Error scraping gebeyaadama	: can't compare offset-naive and offset-aware datetimes
+2025-06-21 01:15:08,970 - task_1 - ERROR - Error in Task 1: [WinError 123] The filename, directory name, or volume label syntax is incorrect: 'data\\raw\\telegram_scrapes\\gebeyaadama\t'
+2025-06-21 01:22:11,689 - task_1 - INFO - Starting Task 1: Data Ingestion and Preprocessing
+2025-06-21 01:22:11,742 - task_1 - ERROR - Error in Task 1: Configuration file not found: C:\Users\hp\OneDrive\Documents\programs\projects\Amharic-E-commerce-NER\config\config\channels.yaml
+2025-06-21 01:22:37,436 - task_1 - INFO - Starting Task 1: Data Ingestion and Preprocessing
+2025-06-21 01:22:37,458 - task_1 - ERROR - Error in Task 1: Configuration file not found: C:\Users\hp\OneDrive\Documents\programs\projects\Amharic-E-commerce-NER\config\config\channels.yaml
+2025-06-21 01:23:17,357 - task_1 - INFO - Starting Task 1: Data Ingestion and Preprocessing
+2025-06-21 01:23:17,385 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-06-21 01:23:19,527 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-06-21 01:23:38,131 - telethon.client.users - INFO - Phone migrated to 4
+2025-06-21 01:23:38,327 - telethon.client.telegrambaseclient - INFO - Reconnecting to new data center 4
+2025-06-21 01:23:38,532 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2025-06-21 01:23:38,534 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2025-06-21 01:23:38,534 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-06-21 01:23:40,509 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-06-21 01:24:00,121 - telegram_scraper - CRITICAL - Failed to start Telegram client session: Returned when all available options for this type of number were already used (e.g. flash-call, then SMS, then this error might be returned to trigger a second resend) (caused by ResendCodeRequest)
+Traceback (most recent call last):
+  File "C:\Users\hp\OneDrive\Documents\programs\projects\Amharic-E-commerce-NER\src\data_collection\telegram_scraper.py", line 75, in start_session
+    await self.client.start()
+  File "c:\Users\hp\OneDrive\Documents\programs\projects\Amharic-E-commerce-NER\.venv_py311\Lib\site-packages\telethon\client\auth.py", line 230, in _start
+    me = await self.sign_in(phone=phone, password=value)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hp\OneDrive\Documents\programs\projects\Amharic-E-commerce-NER\.venv_py311\Lib\site-packages\telethon\client\auth.py", line 329, in sign_in
+    return await self.send_code_request(phone)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hp\OneDrive\Documents\programs\projects\Amharic-E-commerce-NER\.venv_py311\Lib\site-packages\telethon\client\auth.py", line 459, in send_code_request
+    result = await self(
+             ^^^^^^^^^^^
+  File "c:\Users\hp\OneDrive\Documents\programs\projects\Amharic-E-commerce-NER\.venv_py311\Lib\site-packages\telethon\client\users.py", line 30, in __call__
+    return await self._call(self._sender, request, ordered=ordered)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hp\OneDrive\Documents\programs\projects\Amharic-E-commerce-NER\.venv_py311\Lib\site-packages\telethon\client\users.py", line 83, in _call
+    result = await future
+             ^^^^^^^^^^^^
+telethon.errors.rpcerrorlist.SendCodeUnavailableError: Returned when all available options for this type of number were already used (e.g. flash-call, then SMS, then this error might be returned to trigger a second resend) (caused by ResendCodeRequest)
+2025-06-21 01:24:00,147 - task_1 - ERROR - Error in Task 1: Returned when all available options for this type of number were already used (e.g. flash-call, then SMS, then this error might be returned to trigger a second resend) (caused by ResendCodeRequest)
+2025-06-21 01:24:04,578 - task_1 - INFO - Starting Task 1: Data Ingestion and Preprocessing
+2025-06-21 01:24:04,963 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-06-21 01:24:05,161 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-06-21 01:24:14,104 - telethon.client.users - WARNING - Telegram is having internal issues AuthRestartError: Restart the authorization process (caused by SendCodeRequest)
+2025-06-21 01:24:25,406 - telegram_scraper - INFO - Telegram client session started successfully
+2025-06-21 01:24:25,407 - telegram_scraper - INFO - Attempting to scrape channel: ZemenExpress
+2025-06-21 01:24:25,591 - telegram_scraper - INFO - Starting to scrape channel: ZemenExpress
+2025-06-21 01:24:25,591 - telegram_scraper - INFO - Scraping messages from 2025-04-21T22:24:25.591575+00:00 to 2025-06-20T22:24:25.591575+00:00
+2025-06-21 01:24:26,155 - telegram_scraper - INFO - Reached messages older than 2025-04-21T22:24:25.591575+00:00 for ZemenExpress. Stopping.
+2025-06-21 01:24:26,156 - telegram_scraper - INFO - Completed scraping ZemenExpress: 0 messages
+2025-06-21 01:24:26,156 - telegram_scraper - WARNING - No messages scraped or error occurred for channel: ZemenExpress
+2025-06-21 01:24:26,157 - telegram_scraper - INFO - Attempting to scrape channel: nevacomputer
+2025-06-21 01:24:26,363 - telegram_scraper - INFO - Starting to scrape channel: nevacomputer
+2025-06-21 01:24:26,364 - telegram_scraper - INFO - Scraping messages from 2025-04-21T22:24:26.364556+00:00 to 2025-06-20T22:24:26.364556+00:00
+2025-06-21 01:24:26,647 - telegram_scraper - INFO - Reached messages older than 2025-04-21T22:24:26.364556+00:00 for nevacomputer. Stopping.
+2025-06-21 01:24:26,648 - telegram_scraper - INFO - Completed scraping nevacomputer: 0 messages
+2025-06-21 01:24:26,648 - telegram_scraper - WARNING - No messages scraped or error occurred for channel: nevacomputer
+2025-06-21 01:24:26,648 - telegram_scraper - INFO - Attempting to scrape channel: meneshayeofficial
+2025-06-21 01:24:26,843 - telegram_scraper - INFO - Starting to scrape channel: meneshayeofficial
+2025-06-21 01:24:26,844 - telegram_scraper - INFO - Scraping messages from 2025-04-21T22:24:26.844947+00:00 to 2025-06-20T22:24:26.844947+00:00
+2025-06-21 01:24:27,493 - telegram_scraper - INFO - Reached messages older than 2025-04-21T22:24:26.844947+00:00 for meneshayeofficial. Stopping.
+2025-06-21 01:24:27,494 - telegram_scraper - INFO - Completed scraping meneshayeofficial: 0 messages
+2025-06-21 01:24:27,494 - telegram_scraper - WARNING - No messages scraped or error occurred for channel: meneshayeofficial
+2025-06-21 01:24:27,495 - telegram_scraper - INFO - Attempting to scrape channel: ethio_brand_collection
+2025-06-21 01:24:27,726 - telegram_scraper - INFO - Starting to scrape channel: ethio_brand_collection
+2025-06-21 01:24:27,726 - telegram_scraper - INFO - Scraping messages from 2025-04-21T22:24:27.726386+00:00 to 2025-06-20T22:24:27.726386+00:00
+2025-06-21 01:24:28,038 - telegram_scraper - INFO - Reached messages older than 2025-04-21T22:24:27.726386+00:00 for ethio_brand_collection. Stopping.
+2025-06-21 01:24:28,039 - telegram_scraper - INFO - Completed scraping ethio_brand_collection: 0 messages
+2025-06-21 01:24:28,039 - telegram_scraper - WARNING - No messages scraped or error occurred for channel: ethio_brand_collection
+2025-06-21 01:24:28,040 - telegram_scraper - INFO - Attempting to scrape channel: Leyueqa
+2025-06-21 01:24:28,246 - telegram_scraper - INFO - Starting to scrape channel: Leyueqa
+2025-06-21 01:24:28,247 - telegram_scraper - INFO - Scraping messages from 2025-04-21T22:24:28.247167+00:00 to 2025-06-20T22:24:28.247167+00:00
+2025-06-21 01:24:28,721 - telegram_scraper - INFO - Reached messages older than 2025-04-21T22:24:28.247167+00:00 for Leyueqa. Stopping.
+2025-06-21 01:24:28,964 - telegram_scraper - INFO - Completed scraping Leyueqa: 0 messages
+2025-06-21 01:24:28,964 - telegram_scraper - WARNING - No messages scraped or error occurred for channel: Leyueqa
+2025-06-21 01:24:28,965 - telegram_scraper - INFO - Attempting to scrape channel: Shewabrand
+2025-06-21 01:24:29,163 - telegram_scraper - INFO - Starting to scrape channel: Shewabrand
+2025-06-21 01:24:29,164 - telegram_scraper - INFO - Scraping messages from 2025-04-21T22:24:29.164071+00:00 to 2025-06-20T22:24:29.164071+00:00
+2025-06-21 01:24:29,508 - telegram_scraper - INFO - Reached messages older than 2025-04-21T22:24:29.164071+00:00 for Shewabrand. Stopping.
+2025-06-21 01:24:29,509 - telegram_scraper - INFO - Completed scraping Shewabrand: 0 messages
+2025-06-21 01:24:29,509 - telegram_scraper - WARNING - No messages scraped or error occurred for channel: Shewabrand
+2025-06-21 01:24:29,509 - telegram_scraper - INFO - Attempting to scrape channel: helloomarketethiopia
+2025-06-21 01:24:29,728 - telegram_scraper - INFO - Starting to scrape channel: helloomarketethiopia
+2025-06-21 01:24:29,729 - telegram_scraper - INFO - Scraping messages from 2025-04-21T22:24:29.729129+00:00 to 2025-06-20T22:24:29.729129+00:00
+2025-06-21 01:24:30,462 - telegram_scraper - INFO - Reached messages older than 2025-04-21T22:24:29.729129+00:00 for helloomarketethiopia. Stopping.
+2025-06-21 01:24:30,462 - telegram_scraper - INFO - Completed scraping helloomarketethiopia: 0 messages
+2025-06-21 01:24:30,463 - telegram_scraper - WARNING - No messages scraped or error occurred for channel: helloomarketethiopia
+2025-06-21 01:24:30,463 - telegram_scraper - INFO - Attempting to scrape channel: modernshoppingcenter
+2025-06-21 01:24:30,649 - telegram_scraper - INFO - Starting to scrape channel: modernshoppingcenter
+2025-06-21 01:24:30,650 - telegram_scraper - INFO - Scraping messages from 2025-04-21T22:24:30.650346+00:00 to 2025-06-20T22:24:30.650346+00:00
+2025-06-21 01:24:31,088 - telegram_scraper - INFO - Reached messages older than 2025-04-21T22:24:30.650346+00:00 for modernshoppingcenter. Stopping.
+2025-06-21 01:24:31,089 - telegram_scraper - INFO - Completed scraping modernshoppingcenter: 0 messages
+2025-06-21 01:24:31,089 - telegram_scraper - WARNING - No messages scraped or error occurred for channel: modernshoppingcenter
+2025-06-21 01:24:31,090 - telegram_scraper - INFO - Attempting to scrape channel: qnashcom
+2025-06-21 01:24:31,287 - telegram_scraper - INFO - Starting to scrape channel: qnashcom
+2025-06-21 01:24:31,288 - telegram_scraper - INFO - Scraping messages from 2025-04-21T22:24:31.287771+00:00 to 2025-06-20T22:24:31.287771+00:00
+2025-06-21 01:24:31,792 - telegram_scraper - INFO - Reached messages older than 2025-04-21T22:24:31.287771+00:00 for qnashcom. Stopping.
+2025-06-21 01:24:31,792 - telegram_scraper - INFO - Completed scraping qnashcom: 0 messages
+2025-06-21 01:24:31,793 - telegram_scraper - WARNING - No messages scraped or error occurred for channel: qnashcom
+2025-06-21 01:24:31,793 - telegram_scraper - INFO - Attempting to scrape channel: Fashiontera
+2025-06-21 01:24:32,004 - telegram_scraper - INFO - Starting to scrape channel: Fashiontera
+2025-06-21 01:24:32,005 - telegram_scraper - INFO - Scraping messages from 2025-04-21T22:24:32.005745+00:00 to 2025-06-20T22:24:32.005745+00:00
+2025-06-21 01:24:32,284 - telegram_scraper - INFO - Reached messages older than 2025-04-21T22:24:32.005745+00:00 for Fashiontera. Stopping.
+2025-06-21 01:24:32,284 - telegram_scraper - INFO - Completed scraping Fashiontera: 0 messages
+2025-06-21 01:24:32,285 - telegram_scraper - WARNING - No messages scraped or error occurred for channel: Fashiontera
+2025-06-21 01:24:32,285 - telegram_scraper - INFO - Attempting to scrape channel: kuruwear
+2025-06-21 01:24:32,492 - telegram_scraper - INFO - Starting to scrape channel: kuruwear
+2025-06-21 01:24:32,494 - telegram_scraper - INFO - Scraping messages from 2025-04-21T22:24:32.494201+00:00 to 2025-06-20T22:24:32.494201+00:00
+2025-06-21 01:24:32,887 - telegram_scraper - INFO - Reached messages older than 2025-04-21T22:24:32.494201+00:00 for kuruwear. Stopping.
+2025-06-21 01:24:32,888 - telegram_scraper - INFO - Completed scraping kuruwear: 0 messages
+2025-06-21 01:24:32,889 - telegram_scraper - WARNING - No messages scraped or error occurred for channel: kuruwear
+2025-06-21 01:24:32,889 - telegram_scraper - INFO - Attempting to scrape channel: gebeyaadama	
+2025-06-21 01:24:33,084 - telegram_scraper - INFO - Starting to scrape channel: gebeyaadama	
+2025-06-21 01:24:33,085 - telegram_scraper - INFO - Scraping messages from 2025-04-21T22:24:33.085400+00:00 to 2025-06-20T22:24:33.085400+00:00
+2025-06-21 01:24:33,527 - telegram_scraper - INFO - Reached messages older than 2025-04-21T22:24:33.085400+00:00 for gebeyaadama	. Stopping.
+2025-06-21 01:24:33,528 - telegram_scraper - INFO - Completed scraping gebeyaadama	: 0 messages
+2025-06-21 01:24:33,529 - telegram_scraper - WARNING - No messages scraped or error occurred for channel: gebeyaadama	
+2025-06-21 01:24:33,529 - telegram_scraper - INFO - Attempting to scrape channel: https://t.me/forfreemarket
+2025-06-21 01:24:33,724 - telegram_scraper - INFO - Starting to scrape channel: https://t.me/forfreemarket
+2025-06-21 01:24:33,725 - telegram_scraper - INFO - Scraping messages from 2025-04-21T22:24:33.725988+00:00 to 2025-06-20T22:24:33.725988+00:00
+2025-06-21 01:24:34,118 - telegram_scraper - INFO - Reached messages older than 2025-04-21T22:24:33.725988+00:00 for https://t.me/forfreemarket. Stopping.
+2025-06-21 01:24:34,119 - telegram_scraper - INFO - Completed scraping https://t.me/forfreemarket: 0 messages
+2025-06-21 01:24:34,119 - telegram_scraper - WARNING - No messages scraped or error occurred for channel: https://t.me/forfreemarket
+2025-06-21 01:24:34,120 - telegram_scraper - INFO - Attempting to scrape channel: classybrands
+2025-06-21 01:24:34,334 - telegram_scraper - INFO - Starting to scrape channel: classybrands
+2025-06-21 01:24:34,335 - telegram_scraper - INFO - Scraping messages from 2025-04-21T22:24:34.335536+00:00 to 2025-06-20T22:24:34.335536+00:00
+2025-06-21 01:24:34,670 - telegram_scraper - INFO - Reached messages older than 2025-04-21T22:24:34.335536+00:00 for classybrands. Stopping.
+2025-06-21 01:24:34,671 - telegram_scraper - INFO - Completed scraping classybrands: 0 messages
+2025-06-21 01:24:34,671 - telegram_scraper - WARNING - No messages scraped or error occurred for channel: classybrands
+2025-06-21 01:24:34,671 - telegram_scraper - INFO - Attempting to scrape channel: marakibrand
+2025-06-21 01:24:34,871 - telegram_scraper - INFO - Starting to scrape channel: marakibrand
+2025-06-21 01:24:34,872 - telegram_scraper - INFO - Scraping messages from 2025-04-21T22:24:34.872064+00:00 to 2025-06-20T22:24:34.872064+00:00
+2025-06-21 01:24:35,166 - telegram_scraper - INFO - Reached messages older than 2025-04-21T22:24:34.872064+00:00 for marakibrand. Stopping.
+2025-06-21 01:24:35,167 - telegram_scraper - INFO - Completed scraping marakibrand: 0 messages
+2025-06-21 01:24:35,167 - telegram_scraper - WARNING - No messages scraped or error occurred for channel: marakibrand
+2025-06-21 01:24:35,168 - telegram_scraper - INFO - Attempting to scrape channel: aradabrand2
+2025-06-21 01:24:35,360 - telegram_scraper - INFO - Starting to scrape channel: aradabrand2
+2025-06-21 01:24:35,360 - telegram_scraper - INFO - Scraping messages from 2025-04-21T22:24:35.360223+00:00 to 2025-06-20T22:24:35.360223+00:00
+2025-06-21 01:24:35,642 - telegram_scraper - INFO - Reached messages older than 2025-04-21T22:24:35.360223+00:00 for aradabrand2. Stopping.
+2025-06-21 01:24:35,643 - telegram_scraper - INFO - Completed scraping aradabrand2: 0 messages
+2025-06-21 01:24:35,644 - telegram_scraper - WARNING - No messages scraped or error occurred for channel: aradabrand2
+2025-06-21 01:24:35,644 - telegram_scraper - INFO - Attempting to scrape channel: @marakisat2
+2025-06-21 01:24:35,842 - telegram_scraper - INFO - Starting to scrape channel: @marakisat2
+2025-06-21 01:24:35,843 - telegram_scraper - INFO - Scraping messages from 2025-04-21T22:24:35.843061+00:00 to 2025-06-20T22:24:35.843061+00:00
+2025-06-21 01:24:36,133 - telegram_scraper - INFO - Reached messages older than 2025-04-21T22:24:35.843061+00:00 for @marakisat2. Stopping.
+2025-06-21 01:24:36,133 - telegram_scraper - INFO - Completed scraping @marakisat2: 0 messages
+2025-06-21 01:24:36,134 - telegram_scraper - WARNING - No messages scraped or error occurred for channel: @marakisat2
+2025-06-21 01:24:36,135 - telegram_scraper - INFO - Attempting to scrape channel: belaclassic
+2025-06-21 01:24:36,367 - telegram_scraper - INFO - Starting to scrape channel: belaclassic
+2025-06-21 01:24:36,368 - telegram_scraper - INFO - Scraping messages from 2025-04-21T22:24:36.368245+00:00 to 2025-06-20T22:24:36.368245+00:00
+2025-06-21 01:24:36,793 - telegram_scraper - INFO - Reached messages older than 2025-04-21T22:24:36.368245+00:00 for belaclassic. Stopping.
+2025-06-21 01:24:39,269 - telegram_scraper - INFO - Completed scraping belaclassic: 0 messages
+2025-06-21 01:24:39,270 - telegram_scraper - WARNING - No messages scraped or error occurred for channel: belaclassic
+2025-06-21 01:24:39,270 - telegram_scraper - INFO - Attempting to scrape channel: AwasMart
+2025-06-21 01:24:39,450 - telegram_scraper - INFO - Starting to scrape channel: AwasMart
+2025-06-21 01:24:39,450 - telegram_scraper - INFO - Scraping messages from 2025-04-21T22:24:39.450759+00:00 to 2025-06-20T22:24:39.450759+00:00
+2025-06-21 01:24:40,239 - telegram_scraper - INFO - Reached messages older than 2025-04-21T22:24:39.450759+00:00 for AwasMart. Stopping.
+2025-06-21 01:24:40,240 - telegram_scraper - INFO - Completed scraping AwasMart: 0 messages
+2025-06-21 01:24:40,240 - telegram_scraper - WARNING - No messages scraped or error occurred for channel: AwasMart
+2025-06-21 01:24:40,241 - telegram_scraper - INFO - Attempting to scrape channel: qnashcom
+2025-06-21 01:24:40,441 - telegram_scraper - INFO - Starting to scrape channel: qnashcom
+2025-06-21 01:24:40,442 - telegram_scraper - INFO - Scraping messages from 2025-04-21T22:24:40.442088+00:00 to 2025-06-20T22:24:40.442088+00:00
+2025-06-21 01:24:41,026 - telegram_scraper - INFO - Reached messages older than 2025-04-21T22:24:40.442088+00:00 for qnashcom. Stopping.
+2025-06-21 01:24:41,027 - telegram_scraper - INFO - Completed scraping qnashcom: 0 messages
+2025-06-21 01:24:41,027 - telegram_scraper - WARNING - No messages scraped or error occurred for channel: qnashcom
+2025-06-21 01:24:41,028 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2025-06-21 01:24:41,029 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2025-06-21 01:24:41,034 - telegram_scraper - INFO - Telegram client session closed
+2025-06-21 01:24:41,034 - task_1 - INFO - Starting data unification and preprocessing
+2025-06-21 01:24:41,035 - task_1 - ERROR - Error in Task 1: name 'AmharicTextProcessor' is not defined
+2025-06-21 09:51:55,815 - task_1 - INFO - Starting Task 1: Data Ingestion and Preprocessing
+2025-06-21 09:51:55,914 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-06-21 09:51:56,118 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-06-21 09:51:57,376 - telegram_scraper - INFO - Telegram client session started successfully
+2025-06-21 09:51:57,379 - telegram_scraper - INFO - Attempting to scrape channel: ZemenExpress
+2025-06-21 09:51:57,681 - telegram_scraper - INFO - Starting to scrape channel: ZemenExpress
+2025-06-21 09:51:57,682 - telegram_scraper - INFO - Scraping messages from 2025-04-22T06:51:57.682905+00:00 to 2025-06-21T06:51:57.682905+00:00
+2025-06-21 09:51:58,506 - telegram_scraper - INFO - Reached messages older than 2025-04-22T06:51:57.682905+00:00 for ZemenExpress. Stopping.
+2025-06-21 09:51:58,507 - telegram_scraper - INFO - Completed scraping ZemenExpress: 0 messages
+2025-06-21 09:51:58,509 - telegram_scraper - WARNING - No messages scraped or error occurred for channel: ZemenExpress
+2025-06-21 09:51:58,510 - telegram_scraper - INFO - Attempting to scrape channel: nevacomputer
+2025-06-21 09:51:58,838 - telegram_scraper - INFO - Starting to scrape channel: nevacomputer
+2025-06-21 09:51:58,839 - telegram_scraper - INFO - Scraping messages from 2025-04-22T06:51:58.839020+00:00 to 2025-06-21T06:51:58.839020+00:00
+2025-06-21 09:51:59,174 - telegram_scraper - INFO - Reached messages older than 2025-04-22T06:51:58.839020+00:00 for nevacomputer. Stopping.
+2025-06-21 09:51:59,176 - telegram_scraper - INFO - Completed scraping nevacomputer: 0 messages
+2025-06-21 09:51:59,177 - telegram_scraper - WARNING - No messages scraped or error occurred for channel: nevacomputer
+2025-06-21 09:51:59,178 - telegram_scraper - INFO - Attempting to scrape channel: meneshayeofficial
+2025-06-21 09:51:59,424 - telegram_scraper - INFO - Starting to scrape channel: meneshayeofficial
+2025-06-21 09:51:59,426 - telegram_scraper - INFO - Scraping messages from 2025-04-22T06:51:59.426414+00:00 to 2025-06-21T06:51:59.426414+00:00
+2025-06-21 09:52:00,179 - telegram_scraper - INFO - Reached messages older than 2025-04-22T06:51:59.426414+00:00 for meneshayeofficial. Stopping.
+2025-06-21 09:52:00,179 - telegram_scraper - INFO - Completed scraping meneshayeofficial: 0 messages
+2025-06-21 09:52:00,180 - telegram_scraper - WARNING - No messages scraped or error occurred for channel: meneshayeofficial
+2025-06-21 09:52:00,181 - telegram_scraper - INFO - Attempting to scrape channel: ethio_brand_collection
+2025-06-21 09:52:00,475 - telegram_scraper - INFO - Starting to scrape channel: ethio_brand_collection
+2025-06-21 09:52:00,478 - telegram_scraper - INFO - Scraping messages from 2025-04-22T06:52:00.477442+00:00 to 2025-06-21T06:52:00.477442+00:00
+2025-06-21 09:52:00,840 - telegram_scraper - INFO - Reached messages older than 2025-04-22T06:52:00.477442+00:00 for ethio_brand_collection. Stopping.
+2025-06-21 09:52:00,841 - telegram_scraper - INFO - Completed scraping ethio_brand_collection: 0 messages
+2025-06-21 09:52:00,842 - telegram_scraper - WARNING - No messages scraped or error occurred for channel: ethio_brand_collection
+2025-06-21 09:52:00,843 - telegram_scraper - INFO - Attempting to scrape channel: Leyueqa
+2025-06-21 09:52:01,163 - telegram_scraper - INFO - Starting to scrape channel: Leyueqa
+2025-06-21 09:52:01,164 - telegram_scraper - INFO - Scraping messages from 2025-04-22T06:52:01.164228+00:00 to 2025-06-21T06:52:01.164228+00:00
+2025-06-21 09:52:01,957 - telegram_scraper - INFO - Reached messages older than 2025-04-22T06:52:01.164228+00:00 for Leyueqa. Stopping.
+2025-06-21 09:52:01,958 - telegram_scraper - INFO - Completed scraping Leyueqa: 0 messages
+2025-06-21 09:52:01,959 - telegram_scraper - WARNING - No messages scraped or error occurred for channel: Leyueqa
+2025-06-21 09:52:01,960 - telegram_scraper - INFO - Attempting to scrape channel: Shewabrand
+2025-06-21 09:52:02,169 - telegram_scraper - INFO - Starting to scrape channel: Shewabrand
+2025-06-21 09:52:02,170 - telegram_scraper - INFO - Scraping messages from 2025-04-22T06:52:02.170999+00:00 to 2025-06-21T06:52:02.170999+00:00
+2025-06-21 09:52:02,608 - telegram_scraper - INFO - Reached messages older than 2025-04-22T06:52:02.170999+00:00 for Shewabrand. Stopping.
+2025-06-21 09:52:02,609 - telegram_scraper - INFO - Completed scraping Shewabrand: 0 messages
+2025-06-21 09:52:02,610 - telegram_scraper - WARNING - No messages scraped or error occurred for channel: Shewabrand
+2025-06-21 09:52:02,611 - telegram_scraper - INFO - Attempting to scrape channel: helloomarketethiopia
+2025-06-21 09:52:02,882 - telegram_scraper - INFO - Starting to scrape channel: helloomarketethiopia
+2025-06-21 09:52:02,883 - telegram_scraper - INFO - Scraping messages from 2025-04-22T06:52:02.883217+00:00 to 2025-06-21T06:52:02.883217+00:00
+2025-06-21 09:52:03,377 - telegram_scraper - INFO - Reached messages older than 2025-04-22T06:52:02.883217+00:00 for helloomarketethiopia. Stopping.
+2025-06-21 09:52:03,378 - telegram_scraper - INFO - Completed scraping helloomarketethiopia: 0 messages
+2025-06-21 09:52:03,379 - telegram_scraper - WARNING - No messages scraped or error occurred for channel: helloomarketethiopia
+2025-06-21 09:52:03,381 - telegram_scraper - INFO - Attempting to scrape channel: modernshoppingcenter
+2025-06-21 09:52:03,622 - telegram_scraper - INFO - Starting to scrape channel: modernshoppingcenter
+2025-06-21 09:52:03,624 - telegram_scraper - INFO - Scraping messages from 2025-04-22T06:52:03.624617+00:00 to 2025-06-21T06:52:03.624617+00:00
+2025-06-21 09:52:04,072 - telegram_scraper - INFO - Reached messages older than 2025-04-22T06:52:03.624617+00:00 for modernshoppingcenter. Stopping.
+2025-06-21 09:52:04,073 - telegram_scraper - INFO - Completed scraping modernshoppingcenter: 0 messages
+2025-06-21 09:52:04,074 - telegram_scraper - WARNING - No messages scraped or error occurred for channel: modernshoppingcenter
+2025-06-21 09:52:04,075 - telegram_scraper - INFO - Attempting to scrape channel: qnashcom
+2025-06-21 09:52:04,344 - telegram_scraper - INFO - Starting to scrape channel: qnashcom
+2025-06-21 09:52:04,345 - telegram_scraper - INFO - Scraping messages from 2025-04-22T06:52:04.345908+00:00 to 2025-06-21T06:52:04.345908+00:00
+2025-06-21 09:52:05,159 - telegram_scraper - INFO - Reached messages older than 2025-04-22T06:52:04.345908+00:00 for qnashcom. Stopping.
+2025-06-21 09:52:05,160 - telegram_scraper - INFO - Completed scraping qnashcom: 0 messages
+2025-06-21 09:52:05,161 - telegram_scraper - WARNING - No messages scraped or error occurred for channel: qnashcom
+2025-06-21 09:52:05,162 - telegram_scraper - INFO - Attempting to scrape channel: Fashiontera
+2025-06-21 09:52:05,465 - telegram_scraper - INFO - Starting to scrape channel: Fashiontera
+2025-06-21 09:52:05,466 - telegram_scraper - INFO - Scraping messages from 2025-04-22T06:52:05.466633+00:00 to 2025-06-21T06:52:05.466633+00:00
+2025-06-21 09:52:05,827 - telegram_scraper - INFO - Reached messages older than 2025-04-22T06:52:05.466633+00:00 for Fashiontera. Stopping.
+2025-06-21 09:52:05,828 - telegram_scraper - INFO - Completed scraping Fashiontera: 0 messages
+2025-06-21 09:52:05,829 - telegram_scraper - WARNING - No messages scraped or error occurred for channel: Fashiontera
+2025-06-21 09:52:05,830 - telegram_scraper - INFO - Attempting to scrape channel: kuruwear
+2025-06-21 09:52:06,079 - telegram_scraper - INFO - Starting to scrape channel: kuruwear
+2025-06-21 09:52:06,081 - telegram_scraper - INFO - Scraping messages from 2025-04-22T06:52:06.080079+00:00 to 2025-06-21T06:52:06.080079+00:00
+2025-06-21 09:52:06,619 - telegram_scraper - INFO - Reached messages older than 2025-04-22T06:52:06.080079+00:00 for kuruwear. Stopping.
+2025-06-21 09:52:06,620 - telegram_scraper - INFO - Completed scraping kuruwear: 0 messages
+2025-06-21 09:52:06,621 - telegram_scraper - WARNING - No messages scraped or error occurred for channel: kuruwear
+2025-06-21 09:52:06,622 - telegram_scraper - INFO - Attempting to scrape channel: gebeyaadama	
+2025-06-21 09:52:06,899 - telegram_scraper - INFO - Starting to scrape channel: gebeyaadama	
+2025-06-21 09:52:06,900 - telegram_scraper - INFO - Scraping messages from 2025-04-22T06:52:06.900744+00:00 to 2025-06-21T06:52:06.900744+00:00
+2025-06-21 09:52:07,402 - telegram_scraper - INFO - Reached messages older than 2025-04-22T06:52:06.900744+00:00 for gebeyaadama	. Stopping.
+2025-06-21 09:52:07,403 - telegram_scraper - INFO - Completed scraping gebeyaadama	: 0 messages
+2025-06-21 09:52:07,404 - telegram_scraper - WARNING - No messages scraped or error occurred for channel: gebeyaadama	
+2025-06-21 09:52:07,405 - telegram_scraper - INFO - Attempting to scrape channel: https://t.me/forfreemarket
+2025-06-21 09:52:07,660 - telegram_scraper - INFO - Starting to scrape channel: https://t.me/forfreemarket
+2025-06-21 09:52:07,661 - telegram_scraper - INFO - Scraping messages from 2025-04-22T06:52:07.661269+00:00 to 2025-06-21T06:52:07.661269+00:00
+2025-06-21 09:52:08,044 - telegram_scraper - INFO - Reached messages older than 2025-04-22T06:52:07.661269+00:00 for https://t.me/forfreemarket. Stopping.
+2025-06-21 09:52:08,046 - telegram_scraper - INFO - Completed scraping https://t.me/forfreemarket: 0 messages
+2025-06-21 09:52:08,046 - telegram_scraper - WARNING - No messages scraped or error occurred for channel: https://t.me/forfreemarket
+2025-06-21 09:52:08,047 - telegram_scraper - INFO - Attempting to scrape channel: classybrands
+2025-06-21 09:52:08,346 - telegram_scraper - INFO - Starting to scrape channel: classybrands
+2025-06-21 09:52:08,348 - telegram_scraper - INFO - Scraping messages from 2025-04-22T06:52:08.348385+00:00 to 2025-06-21T06:52:08.348385+00:00
+2025-06-21 09:52:08,727 - telegram_scraper - INFO - Reached messages older than 2025-04-22T06:52:08.348385+00:00 for classybrands. Stopping.
+2025-06-21 09:52:08,729 - telegram_scraper - INFO - Completed scraping classybrands: 0 messages
+2025-06-21 09:52:08,730 - telegram_scraper - WARNING - No messages scraped or error occurred for channel: classybrands
+2025-06-21 09:52:08,731 - telegram_scraper - INFO - Attempting to scrape channel: marakibrand
+2025-06-21 09:52:09,055 - telegram_scraper - INFO - Starting to scrape channel: marakibrand
+2025-06-21 09:52:09,057 - telegram_scraper - INFO - Scraping messages from 2025-04-22T06:52:09.057175+00:00 to 2025-06-21T06:52:09.057175+00:00
+2025-06-21 09:52:09,415 - telegram_scraper - INFO - Reached messages older than 2025-04-22T06:52:09.057175+00:00 for marakibrand. Stopping.
+2025-06-21 09:52:09,416 - telegram_scraper - INFO - Completed scraping marakibrand: 0 messages
+2025-06-21 09:52:09,417 - telegram_scraper - WARNING - No messages scraped or error occurred for channel: marakibrand
+2025-06-21 09:52:09,418 - telegram_scraper - INFO - Attempting to scrape channel: aradabrand2
+2025-06-21 09:52:09,803 - telegram_scraper - INFO - Starting to scrape channel: aradabrand2
+2025-06-21 09:52:09,805 - telegram_scraper - INFO - Scraping messages from 2025-04-22T06:52:09.805172+00:00 to 2025-06-21T06:52:09.805172+00:00
+2025-06-21 09:52:10,472 - telegram_scraper - INFO - Reached messages older than 2025-04-22T06:52:09.805172+00:00 for aradabrand2. Stopping.
+2025-06-21 09:52:10,472 - telegram_scraper - INFO - Completed scraping aradabrand2: 0 messages
+2025-06-21 09:52:10,473 - telegram_scraper - WARNING - No messages scraped or error occurred for channel: aradabrand2
+2025-06-21 09:52:10,474 - telegram_scraper - INFO - Attempting to scrape channel: @marakisat2
+2025-06-21 09:52:10,791 - telegram_scraper - INFO - Starting to scrape channel: @marakisat2
+2025-06-21 09:52:10,793 - telegram_scraper - INFO - Scraping messages from 2025-04-22T06:52:10.793754+00:00 to 2025-06-21T06:52:10.793754+00:00
+2025-06-21 09:52:11,141 - telegram_scraper - INFO - Reached messages older than 2025-04-22T06:52:10.793754+00:00 for @marakisat2. Stopping.
+2025-06-21 09:52:11,143 - telegram_scraper - INFO - Completed scraping @marakisat2: 0 messages
+2025-06-21 09:52:11,144 - telegram_scraper - WARNING - No messages scraped or error occurred for channel: @marakisat2
+2025-06-21 09:52:11,145 - telegram_scraper - INFO - Attempting to scrape channel: belaclassic
+2025-06-21 09:52:11,401 - telegram_scraper - INFO - Starting to scrape channel: belaclassic
+2025-06-21 09:52:11,402 - telegram_scraper - INFO - Scraping messages from 2025-04-22T06:52:11.402591+00:00 to 2025-06-21T06:52:11.402591+00:00
+2025-06-21 09:52:11,895 - telegram_scraper - INFO - Reached messages older than 2025-04-22T06:52:11.402591+00:00 for belaclassic. Stopping.
+2025-06-21 09:52:11,896 - telegram_scraper - INFO - Completed scraping belaclassic: 0 messages
+2025-06-21 09:52:11,897 - telegram_scraper - WARNING - No messages scraped or error occurred for channel: belaclassic
+2025-06-21 09:52:11,898 - telegram_scraper - INFO - Attempting to scrape channel: AwasMart
+2025-06-21 09:52:12,123 - telegram_scraper - INFO - Starting to scrape channel: AwasMart
+2025-06-21 09:52:12,125 - telegram_scraper - INFO - Scraping messages from 2025-04-22T06:52:12.125318+00:00 to 2025-06-21T06:52:12.125318+00:00
+2025-06-21 09:52:12,634 - telegram_scraper - INFO - Reached messages older than 2025-04-22T06:52:12.125318+00:00 for AwasMart. Stopping.
+2025-06-21 09:52:12,635 - telegram_scraper - INFO - Completed scraping AwasMart: 0 messages
+2025-06-21 09:52:12,636 - telegram_scraper - WARNING - No messages scraped or error occurred for channel: AwasMart
+2025-06-21 09:52:12,637 - telegram_scraper - INFO - Attempting to scrape channel: qnashcom
+2025-06-21 09:52:13,040 - telegram_scraper - INFO - Starting to scrape channel: qnashcom
+2025-06-21 09:52:13,041 - telegram_scraper - INFO - Scraping messages from 2025-04-22T06:52:13.041398+00:00 to 2025-06-21T06:52:13.041398+00:00
+2025-06-21 09:52:13,631 - telegram_scraper - INFO - Reached messages older than 2025-04-22T06:52:13.041398+00:00 for qnashcom. Stopping.
+2025-06-21 09:52:13,632 - telegram_scraper - INFO - Completed scraping qnashcom: 0 messages
+2025-06-21 09:52:13,633 - telegram_scraper - WARNING - No messages scraped or error occurred for channel: qnashcom
+2025-06-21 09:52:13,634 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2025-06-21 09:52:13,635 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2025-06-21 09:52:13,641 - telegram_scraper - INFO - Telegram client session closed
+2025-06-21 09:52:13,642 - task_1 - INFO - Starting data unification and preprocessing
+2025-06-21 09:52:13,644 - task_1 - ERROR - Error in Task 1: name 'AmharicTextProcessor' is not defined
+2025-06-21 10:16:48,857 - task_1 - INFO - Starting Task 1: Data Ingestion and Preprocessing
+2025-06-21 10:16:48,894 - task_1 - ERROR - Error in Task 1: [Errno 2] No such file or directory: '../config/channels.yaml'
+2025-06-21 10:19:04,480 - task_1 - INFO - Starting Task 1: Data Ingestion and Preprocessing
+2025-06-21 10:19:04,527 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-06-21 10:19:04,819 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-06-21 10:19:06,356 - telegram_scraper - INFO - Telegram client session started successfully
+2025-06-21 10:19:06,358 - telegram_scraper - INFO - Starting scrape for channel: ZemenExpress
+2025-06-21 10:22:28,049 - telegram_scraper - INFO - Scraped 100 messages from ZemenExpress
+2025-06-21 10:25:49,718 - telegram_scraper - INFO - Scraped 200 messages from ZemenExpress
+2025-06-21 10:29:11,152 - telegram_scraper - INFO - Scraped 300 messages from ZemenExpress
+2025-06-21 10:32:33,191 - telegram_scraper - INFO - Scraped 400 messages from ZemenExpress
+2025-06-21 10:33:08,164 - telegram_scraper - INFO - Completed scraping ZemenExpress: 417 messages
+2025-06-21 10:33:08,217 - telegram_scraper - INFO - Saved 417 messages for channel ZemenExpress
+2025-06-21 10:33:08,217 - telegram_scraper - INFO - Starting scrape for channel: nevacomputer
+2025-06-21 10:33:54,451 - telegram_scraper - INFO - Completed scraping nevacomputer: 22 messages
+2025-06-21 10:33:54,459 - telegram_scraper - INFO - Saved 22 messages for channel nevacomputer
+2025-06-21 10:33:54,459 - telegram_scraper - INFO - Starting scrape for channel: meneshayeofficial
+2025-06-21 10:34:06,828 - telethon.client.updates - INFO - Got difference for account updates
+2025-06-21 10:35:37,239 - telegram_scraper - INFO - Completed scraping meneshayeofficial: 49 messages
+2025-06-21 10:35:37,256 - telegram_scraper - INFO - Saved 49 messages for channel meneshayeofficial
+2025-06-21 10:35:37,256 - telegram_scraper - INFO - Starting scrape for channel: ethio_brand_collection
+2025-06-21 10:37:35,739 - telegram_scraper - INFO - Completed scraping ethio_brand_collection: 57 messages
+2025-06-21 10:37:35,755 - telegram_scraper - INFO - Saved 57 messages for channel ethio_brand_collection
+2025-06-21 10:37:35,755 - telegram_scraper - INFO - Starting scrape for channel: Leyueqa
+2025-06-21 10:40:58,632 - telegram_scraper - INFO - Scraped 100 messages from Leyueqa
+2025-06-21 10:44:20,823 - telegram_scraper - INFO - Scraped 200 messages from Leyueqa
+2025-06-21 10:47:42,625 - telegram_scraper - INFO - Scraped 300 messages from Leyueqa
+2025-06-21 10:49:07,062 - telethon.client.updates - INFO - Got difference for account updates
+2025-06-21 10:49:07,297 - telethon.client.updates - INFO - Got difference for channel 1121967970 updates
+2025-06-21 10:49:54,384 - telegram_scraper - INFO - Completed scraping Leyueqa: 365 messages
+2025-06-21 10:49:54,425 - telegram_scraper - INFO - Saved 365 messages for channel Leyueqa
+2025-06-21 10:49:54,426 - telegram_scraper - INFO - Starting scrape for channel: Shewabrand
+2025-06-21 10:52:02,321 - telegram_scraper - INFO - Completed scraping Shewabrand: 63 messages
+2025-06-21 10:52:02,331 - telegram_scraper - INFO - Saved 63 messages for channel Shewabrand
+2025-06-21 10:52:02,332 - telegram_scraper - INFO - Starting scrape for channel: helloomarketethiopia
+2025-06-21 10:52:27,910 - telegram_scraper - INFO - Completed scraping helloomarketethiopia: 12 messages
+2025-06-21 10:52:27,920 - telegram_scraper - INFO - Saved 12 messages for channel helloomarketethiopia
+2025-06-21 10:52:27,921 - telegram_scraper - INFO - Starting scrape for channel: modernshoppingcenter
+2025-06-21 10:55:50,067 - telegram_scraper - INFO - Scraped 100 messages from modernshoppingcenter
+2025-06-21 10:59:12,103 - telegram_scraper - INFO - Scraped 200 messages from modernshoppingcenter
+2025-06-21 11:02:37,773 - telegram_scraper - INFO - Scraped 300 messages from modernshoppingcenter
+2025-06-21 11:04:07,338 - telethon.client.updates - INFO - Got difference for account updates
+2025-06-21 11:04:07,996 - telethon.client.updates - INFO - Got difference for channel 1729883138 updates
+2025-06-21 11:04:08,316 - telethon.client.updates - INFO - Got difference for channel 1845198182 updates
+2025-06-21 11:05:59,801 - telegram_scraper - INFO - Scraped 400 messages from modernshoppingcenter
+2025-06-21 11:09:22,297 - telegram_scraper - INFO - Scraped 500 messages from modernshoppingcenter
+2025-06-21 11:09:28,334 - telegram_scraper - INFO - Completed scraping modernshoppingcenter: 503 messages
+2025-06-21 11:09:28,393 - telegram_scraper - INFO - Saved 503 messages for channel modernshoppingcenter
+2025-06-21 11:09:28,394 - telegram_scraper - INFO - Starting scrape for channel: qnashcom
+2025-06-21 11:13:15,361 - telethon.network.connection.connection - WARNING - Server closed the connection: [WinError 121] The semaphore timeout period has expired
+2025-06-21 11:13:15,363 - telethon.network.connection.connection - WARNING - Server closed the connection: [WinError 121] The semaphore timeout period has expired
+2025-06-21 11:13:15,364 - telethon.network.mtprotosender - INFO - Connection closed while receiving data
+2025-06-21 11:13:15,365 - telethon.network.connection.connection - WARNING - Server closed the connection: [WinError 121] The semaphore timeout period has expired
+2025-06-21 11:13:15,365 - telethon.network.mtprotosender - INFO - Closing current connection to begin reconnect...
+2025-06-21 11:13:15,366 - telethon.network.connection.connection - INFO - <class 'OSError'> during disconnect: [WinError 121] The semaphore timeout period has expired
+2025-06-21 11:13:15,367 - telethon.network.connection.connection - INFO - <class 'OSError'> during disconnect: [WinError 121] The semaphore timeout period has expired
+2025-06-21 11:13:15,367 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-06-21 11:13:15,614 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-06-21 11:13:15,619 - telethon.network.mtprotosender - INFO - Connection closed while receiving data
+2025-06-21 11:13:15,621 - telethon.network.mtprotosender - INFO - Closing current connection to begin reconnect...
+2025-06-21 11:13:15,626 - telethon.network.mtprotosender - INFO - Connection closed while sending data
+2025-06-21 11:13:15,628 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-06-21 11:13:15,817 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-06-21 11:13:19,348 - telegram_scraper - INFO - Scraped 100 messages from qnashcom
+2025-06-21 11:14:11,544 - telegram_scraper - INFO - Completed scraping qnashcom: 126 messages
+2025-06-21 11:14:11,560 - telegram_scraper - INFO - Saved 126 messages for channel qnashcom
+2025-06-21 11:14:11,561 - telegram_scraper - INFO - Starting scrape for channel: Fashiontera
+2025-06-21 11:15:22,820 - telegram_scraper - INFO - Completed scraping Fashiontera: 35 messages
+2025-06-21 11:15:22,831 - telegram_scraper - INFO - Saved 35 messages for channel Fashiontera
+2025-06-21 11:15:22,831 - telegram_scraper - INFO - Starting scrape for channel: kuruwear
+2025-06-21 11:15:39,991 - telegram_scraper - INFO - Completed scraping kuruwear: 8 messages
+2025-06-21 11:15:40,006 - telegram_scraper - INFO - Saved 8 messages for channel kuruwear
+2025-06-21 11:15:40,007 - telegram_scraper - INFO - Starting scrape for channel: gebeyaadama	
+2025-06-21 11:16:43,570 - telegram_scraper - INFO - Completed scraping gebeyaadama	: 31 messages
+2025-06-21 11:16:43,573 - task_1 - ERROR - Error in Task 1: [WinError 123] The filename, directory name, or volume label syntax is incorrect: 'data\\raw\\telegram_scrapes\\gebeyaadama\t'
+2025-06-21 11:28:52,447 - task_1 - INFO - Starting Task 1: Data Ingestion and Preprocessing
+2025-06-21 11:28:52,499 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-06-21 11:28:52,794 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-06-21 11:28:54,043 - telegram_scraper - INFO - Telegram client session started successfully
+2025-06-21 11:28:54,044 - telegram_scraper - INFO - Starting scrape for channel: ZemenExpress
+2025-06-21 11:32:15,762 - telegram_scraper - INFO - Scraped 100 messages from ZemenExpress
+2025-06-21 11:35:37,395 - telegram_scraper - INFO - Scraped 200 messages from ZemenExpress
+2025-06-21 11:38:58,960 - telegram_scraper - INFO - Scraped 300 messages from ZemenExpress
+2025-06-21 11:42:20,956 - telegram_scraper - INFO - Scraped 400 messages from ZemenExpress
+2025-06-21 11:43:05,940 - telegram_scraper - INFO - Completed scraping ZemenExpress: 422 messages
+2025-06-21 11:43:05,998 - telegram_scraper - INFO - Saved 422 messages for channel ZemenExpress
+2025-06-21 11:43:06,000 - telegram_scraper - INFO - Starting scrape for channel: nevacomputer
+2025-06-21 11:43:51,116 - telegram_scraper - INFO - Completed scraping nevacomputer: 22 messages
+2025-06-21 11:43:51,134 - telegram_scraper - INFO - Saved 22 messages for channel nevacomputer
+2025-06-21 11:43:51,135 - telegram_scraper - INFO - Starting scrape for channel: meneshayeofficial
+2025-06-21 11:43:55,316 - telethon.client.updates - INFO - Got difference for channel 1729883138 updates
+2025-06-21 11:45:31,057 - telegram_scraper - INFO - Completed scraping meneshayeofficial: 49 messages
+2025-06-21 11:45:31,068 - telegram_scraper - INFO - Saved 49 messages for channel meneshayeofficial
+2025-06-21 11:45:31,069 - telegram_scraper - INFO - Starting scrape for channel: ethio_brand_collection
+2025-06-21 11:47:28,591 - telegram_scraper - INFO - Completed scraping ethio_brand_collection: 57 messages
+2025-06-21 11:47:28,605 - telegram_scraper - INFO - Saved 57 messages for channel ethio_brand_collection
+2025-06-21 11:47:28,606 - telegram_scraper - INFO - Starting scrape for channel: Leyueqa
+2025-06-21 11:48:47,401 - telethon.client.updates - INFO - Got difference for channel 1729883138 updates
+2025-06-21 11:50:50,667 - telegram_scraper - INFO - Scraped 100 messages from Leyueqa
+2025-06-21 11:54:12,730 - telegram_scraper - INFO - Scraped 200 messages from Leyueqa
+2025-06-21 11:57:34,453 - telegram_scraper - INFO - Scraped 300 messages from Leyueqa
+2025-06-21 11:58:55,386 - telethon.client.updates - INFO - Got difference for account updates
+2025-06-21 11:58:55,596 - telethon.client.updates - INFO - Got difference for channel 1729883138 updates
+2025-06-21 11:58:56,203 - telethon.client.updates - INFO - Got difference for channel 1502099529 updates
+2025-06-21 11:59:48,208 - telegram_scraper - INFO - Completed scraping Leyueqa: 366 messages
+2025-06-21 11:59:48,253 - telegram_scraper - INFO - Saved 366 messages for channel Leyueqa
+2025-06-21 11:59:48,254 - telegram_scraper - INFO - Starting scrape for channel: Shewabrand
+2025-06-21 12:01:55,618 - telegram_scraper - INFO - Completed scraping Shewabrand: 63 messages
+2025-06-21 12:01:55,630 - telegram_scraper - INFO - Saved 63 messages for channel Shewabrand
+2025-06-21 12:01:55,631 - telegram_scraper - INFO - Starting scrape for channel: helloomarketethiopia
+2025-06-21 12:02:20,688 - telegram_scraper - INFO - Completed scraping helloomarketethiopia: 12 messages
+2025-06-21 12:02:20,693 - telegram_scraper - INFO - Saved 12 messages for channel helloomarketethiopia
+2025-06-21 12:02:20,694 - telegram_scraper - INFO - Starting scrape for channel: modernshoppingcenter
+2025-06-21 12:05:47,748 - telegram_scraper - INFO - Scraped 100 messages from modernshoppingcenter
+2025-06-21 12:09:10,843 - telegram_scraper - INFO - Scraped 200 messages from modernshoppingcenter
+2025-06-21 12:12:36,073 - telegram_scraper - INFO - Scraped 300 messages from modernshoppingcenter
+2025-06-21 12:13:55,697 - telethon.client.updates - INFO - Got difference for account updates
+2025-06-21 12:13:55,896 - telethon.client.updates - INFO - Got difference for channel 1729883138 updates
+2025-06-21 12:13:56,755 - telethon.client.updates - INFO - Got difference for channel 1423571990 updates
+2025-06-21 12:15:58,348 - telegram_scraper - INFO - Scraped 400 messages from modernshoppingcenter
+2025-06-21 12:19:20,306 - telegram_scraper - INFO - Scraped 500 messages from modernshoppingcenter
+2025-06-21 12:19:26,334 - telegram_scraper - INFO - Completed scraping modernshoppingcenter: 503 messages
+2025-06-21 12:19:26,423 - telegram_scraper - INFO - Saved 503 messages for channel modernshoppingcenter
+2025-06-21 12:19:26,424 - telegram_scraper - INFO - Starting scrape for channel: qnashcom
+2025-06-21 12:22:52,231 - telegram_scraper - INFO - Scraped 100 messages from qnashcom
+2025-06-21 12:23:44,444 - telegram_scraper - INFO - Completed scraping qnashcom: 126 messages
+2025-06-21 12:23:44,459 - telegram_scraper - INFO - Saved 126 messages for channel qnashcom
+2025-06-21 12:23:44,460 - telegram_scraper - INFO - Starting scrape for channel: Fashiontera
+2025-06-21 12:24:55,655 - telegram_scraper - INFO - Completed scraping Fashiontera: 35 messages
+2025-06-21 12:24:55,674 - telegram_scraper - INFO - Saved 35 messages for channel Fashiontera
+2025-06-21 12:24:55,675 - telegram_scraper - INFO - Starting scrape for channel: kuruwear
+2025-06-21 12:25:12,649 - telegram_scraper - INFO - Completed scraping kuruwear: 8 messages
+2025-06-21 12:25:12,655 - telegram_scraper - INFO - Saved 8 messages for channel kuruwear
+2025-06-21 12:25:12,655 - telegram_scraper - INFO - Starting scrape for channel: gebeyaadama
+2025-06-21 12:26:15,862 - telegram_scraper - INFO - Completed scraping gebeyaadama: 31 messages
+2025-06-21 12:26:15,874 - telegram_scraper - INFO - Saved 31 messages for channel gebeyaadama
+2025-06-21 12:26:15,875 - telegram_scraper - INFO - Starting scrape for channel: forfreemarket
+2025-06-21 12:27:07,150 - telethon.client.updates - INFO - Got difference for channel 1729883138 updates
+2025-06-21 12:28:03,453 - telethon.client.updates - INFO - Got difference for channel 1648206657 updates
+2025-06-21 12:28:55,937 - telethon.client.updates - INFO - Got difference for account updates
+2025-06-21 12:28:56,581 - telethon.client.updates - INFO - Got difference for channel 1729883138 updates
+2025-06-21 12:28:56,972 - telethon.client.updates - INFO - Got difference for channel 1838046737 updates
+2025-06-21 12:29:37,767 - telegram_scraper - INFO - Scraped 100 messages from forfreemarket
+2025-06-21 12:32:10,135 - telethon.client.updates - INFO - Got difference for channel 1729883138 updates
+2025-06-21 12:33:01,379 - telegram_scraper - INFO - Scraped 200 messages from forfreemarket
+2025-06-21 12:35:30,846 - telegram_scraper - INFO - Completed scraping forfreemarket: 273 messages
+2025-06-21 12:35:30,894 - telegram_scraper - INFO - Saved 273 messages for channel forfreemarket
+2025-06-21 12:35:30,894 - telegram_scraper - INFO - Starting scrape for channel: classybrands
+2025-06-21 12:37:42,430 - telegram_scraper - INFO - Completed scraping classybrands: 65 messages
+2025-06-21 12:37:42,444 - telegram_scraper - INFO - Saved 65 messages for channel classybrands
+2025-06-21 12:37:42,445 - telegram_scraper - INFO - Starting scrape for channel: marakibrand
+2025-06-21 12:41:04,354 - telegram_scraper - INFO - Scraped 100 messages from marakibrand
+2025-06-21 12:42:37,520 - telegram_scraper - INFO - Completed scraping marakibrand: 146 messages
+2025-06-21 12:42:37,542 - telegram_scraper - INFO - Saved 146 messages for channel marakibrand
+2025-06-21 12:42:37,542 - telegram_scraper - INFO - Starting scrape for channel: aradabrand2
+2025-06-21 12:43:06,939 - telegram_scraper - INFO - Completed scraping aradabrand2: 14 messages
+2025-06-21 12:43:06,952 - telegram_scraper - INFO - Saved 14 messages for channel aradabrand2
+2025-06-21 12:43:06,952 - telegram_scraper - INFO - Starting scrape for channel: @marakisat2
+2025-06-21 12:43:56,464 - telethon.client.updates - INFO - Got difference for channel 1729883138 updates
+2025-06-21 12:43:56,746 - telethon.client.updates - INFO - Got difference for channel 1204209308 updates
+2025-06-21 12:43:58,616 - telethon.client.updates - INFO - Got difference for channel 1502099529 updates
+2025-06-21 12:45:20,956 - telegram_scraper - INFO - Completed scraping @marakisat2: 66 messages
+2025-06-21 12:45:20,969 - telegram_scraper - INFO - Saved 66 messages for channel @marakisat2
+2025-06-21 12:45:20,970 - telegram_scraper - INFO - Starting scrape for channel: belaclassic
+2025-06-21 12:46:17,069 - telethon.client.updates - INFO - Got difference for channel 1729883138 updates
+2025-06-21 12:47:12,725 - telegram_scraper - INFO - Completed scraping belaclassic: 55 messages
+2025-06-21 12:47:12,738 - telegram_scraper - INFO - Saved 55 messages for channel belaclassic
+2025-06-21 12:47:12,739 - telegram_scraper - INFO - Starting scrape for channel: AwasMart
+2025-06-21 12:47:32,072 - telethon.network.connection.connection - WARNING - Server closed the connection: [WinError 121] The semaphore timeout period has expired
+2025-06-21 12:47:32,074 - telethon.network.connection.connection - WARNING - Server closed the connection: [WinError 121] The semaphore timeout period has expired
+2025-06-21 12:47:32,074 - telethon.network.mtprotosender - INFO - Connection closed while receiving data
+2025-06-21 12:47:32,075 - telethon.network.connection.connection - WARNING - Server closed the connection: [WinError 121] The semaphore timeout period has expired
+2025-06-21 12:47:32,075 - telethon.network.mtprotosender - INFO - Closing current connection to begin reconnect...
+2025-06-21 12:47:32,076 - telethon.network.connection.connection - INFO - <class 'OSError'> during disconnect: [WinError 121] The semaphore timeout period has expired
+2025-06-21 12:47:32,076 - telethon.network.connection.connection - INFO - <class 'OSError'> during disconnect: [WinError 121] The semaphore timeout period has expired
+2025-06-21 12:47:32,077 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-06-21 12:47:32,296 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-06-21 12:47:32,301 - telethon.network.mtprotosender - INFO - Connection closed while receiving data
+2025-06-21 12:47:32,303 - telethon.network.mtprotosender - INFO - Closing current connection to begin reconnect...
+2025-06-21 12:47:32,306 - telethon.network.mtprotosender - INFO - Connection closed while sending data
+2025-06-21 12:47:32,308 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.91:443/TcpFull...
+2025-06-21 12:47:32,548 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.91:443/TcpFull complete!
+2025-06-21 12:48:18,018 - telethon.client.updates - INFO - Got difference for channel 1729883138 updates
+2025-06-21 12:50:54,372 - telegram_scraper - INFO - Scraped 100 messages from AwasMart
+2025-06-21 12:54:15,987 - telegram_scraper - INFO - Scraped 200 messages from AwasMart
+2025-06-21 12:57:37,352 - telegram_scraper - INFO - Scraped 300 messages from AwasMart
+2025-06-21 12:58:56,570 - telethon.client.updates - INFO - Got difference for account updates
+2025-06-21 12:58:56,933 - telethon.client.updates - INFO - Got difference for channel 1729883138 updates
+2025-06-21 12:58:57,232 - telethon.client.updates - INFO - Got difference for channel 1478131840 updates
+2025-06-21 12:58:57,572 - telethon.client.updates - INFO - Got difference for channel 1502099529 updates
+2025-06-21 12:58:57,844 - telethon.client.updates - INFO - Got difference for channel 1423571990 updates
+2025-06-21 12:59:59,630 - telethon.client.updates - INFO - Got difference for channel 1648206657 updates
+2025-06-21 13:00:58,990 - telegram_scraper - INFO - Scraped 400 messages from AwasMart
+2025-06-21 13:04:20,456 - telegram_scraper - INFO - Scraped 500 messages from AwasMart
+2025-06-21 13:07:22,489 - telegram_scraper - INFO - Completed scraping AwasMart: 590 messages
+2025-06-21 13:07:22,550 - telegram_scraper - INFO - Saved 590 messages for channel AwasMart
+2025-06-21 13:07:22,551 - telegram_scraper - INFO - Starting scrape for channel: qnashcom
+2025-06-21 13:10:48,756 - telegram_scraper - INFO - Scraped 100 messages from qnashcom
+2025-06-21 13:11:38,934 - telegram_scraper - INFO - Completed scraping qnashcom: 125 messages
+2025-06-21 13:11:38,953 - telegram_scraper - INFO - Saved 125 messages for channel qnashcom
+2025-06-21 13:11:38,954 - telethon.network.mtprotosender - INFO - Disconnecting from 149.154.167.91:443/TcpFull...
+2025-06-21 13:11:38,956 - telethon.network.mtprotosender - INFO - Disconnection from 149.154.167.91:443/TcpFull complete!
+2025-06-21 13:11:38,971 - telegram_scraper - INFO - Telegram client session closed
+2025-06-21 13:11:38,971 - task_1 - INFO - Starting data unification and preprocessing
+2025-06-21 13:11:38,973 - task_1 - ERROR - Error in Task 1: name 'AmharicTextProcessor' is not defined

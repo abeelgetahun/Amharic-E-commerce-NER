@@ -1,0 +1,51 @@
+2025-06-23 08:30:21,054 - task1_notebook - INFO - Task 1 notebook logging initialized
+2025-06-23 08:30:21,182 - task1_notebook - INFO - Starting Telegram data scraping
+2025-06-23 08:30:21,278 - task1_notebook - ERROR - Error during scraping: [Errno 2] No such file or directory: 'c:\\Users\\hp\\OneDrive\\Documents\\programs\\projects\\Amharic-E-commerce-NER\\notebooks\\logs\\scraping.log'
+2025-06-23 08:30:21,352 - task1_notebook - INFO - Starting data unification and preprocessing
+2025-06-23 08:30:21,356 - task1_notebook - ERROR - Error during data unification: name 'AmharicTextProcessor' is not defined
+2025-06-23 08:30:21,464 - task1_notebook - INFO - Task 1 notebook execution completed
+2025-06-23 08:31:12,097 - task1_notebook - INFO - Starting Telegram data scraping
+2025-06-23 08:31:17,690 - task1_notebook - ERROR - Error during scraping: database is locked
+2025-06-23 08:33:15,259 - task1_notebook - INFO - Task 1 notebook logging initialized
+2025-06-23 08:33:15,374 - task1_notebook - INFO - Starting Telegram data scraping
+2025-06-23 08:33:15,433 - task1_notebook - ERROR - Error during scraping: [Errno 2] No such file or directory: 'c:\\Users\\hp\\OneDrive\\Documents\\programs\\projects\\Amharic-E-commerce-NER\\notebooks\\logs\\scraping.log'
+2025-06-23 08:33:15,491 - task1_notebook - INFO - Starting data unification and preprocessing
+2025-06-23 08:33:15,494 - task1_notebook - ERROR - Error during data unification: name 'AmharicTextProcessor' is not defined
+2025-06-23 08:33:15,604 - task1_notebook - INFO - Task 1 notebook execution completed
+2025-06-23 08:33:47,459 - task1_notebook - INFO - Task 1 notebook logging initialized
+2025-06-23 08:33:47,563 - task1_notebook - INFO - Starting Telegram data scraping
+2025-06-23 08:33:53,191 - task1_notebook - ERROR - Error during scraping: database is locked
+2025-06-23 08:33:53,258 - task1_notebook - INFO - Starting data unification and preprocessing
+2025-06-23 08:33:53,263 - task1_notebook - ERROR - Error during data unification: name 'AmharicTextProcessor' is not defined
+2025-06-23 08:33:53,370 - task1_notebook - INFO - Task 1 notebook execution completed
+2025-06-23 08:35:42,807 - task1_notebook - INFO - Task 1 notebook logging initialized
+2025-06-23 08:35:42,912 - task1_notebook - INFO - Starting Telegram data scraping
+2025-06-23 08:35:42,991 - task1_notebook - ERROR - Error during scraping: [Errno 2] No such file or directory: 'c:\\Users\\hp\\OneDrive\\Documents\\programs\\projects\\Amharic-E-commerce-NER\\notebooks\\logs\\scraping.log'
+2025-06-23 08:35:43,054 - task1_notebook - INFO - Starting data unification and preprocessing
+2025-06-23 08:35:43,059 - task1_notebook - ERROR - Error during data unification: name 'AmharicTextProcessor' is not defined
+2025-06-23 08:35:43,149 - task1_notebook - INFO - Task 1 notebook execution completed
+2025-06-23 08:36:21,774 - task1_notebook - INFO - Starting Telegram data scraping
+2025-06-23 08:36:27,389 - task1_notebook - ERROR - Error during scraping: database is locked
+2025-06-23 08:37:20,611 - task1_notebook - INFO - Task 1 notebook logging initialized
+2025-06-23 08:37:20,790 - task1_notebook - INFO - Starting Telegram data scraping
+2025-06-23 08:37:20,881 - task1_notebook - ERROR - Error during scraping: [Errno 2] No such file or directory: 'c:\\Users\\hp\\OneDrive\\Documents\\programs\\projects\\Amharic-E-commerce-NER\\notebooks\\logs\\scraping.log'
+2025-06-23 08:37:20,943 - task1_notebook - INFO - Starting data unification and preprocessing
+2025-06-23 08:37:20,947 - task1_notebook - ERROR - Error during data unification: name 'AmharicTextProcessor' is not defined
+2025-06-23 08:37:21,047 - task1_notebook - INFO - Task 1 notebook execution completed
+2025-06-23 08:38:34,414 - task1_notebook - INFO - Starting Telegram data scraping
+2025-06-23 08:38:40,007 - task1_notebook - ERROR - Error during scraping: database is locked
+2025-06-23 08:39:03,496 - task1_notebook - INFO - Task 1 notebook logging initialized
+2025-06-23 08:39:03,597 - task1_notebook - INFO - Starting Telegram data scraping
+2025-06-23 08:39:03,671 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-06-23 08:39:05,327 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-06-23 19:15:26,161 - task1_notebook - INFO - Task 1 notebook logging initialized
+2025-06-23 19:15:59,579 - task1_notebook - INFO - Starting data unification and preprocessing
+2025-06-23 19:15:59,584 - task1_notebook - ERROR - Error during data unification: name 'AmharicTextProcessor' is not defined
+2025-06-23 19:20:31,708 - task1_notebook - INFO - Starting data unification and preprocessing
+2025-06-23 19:20:31,713 - task1_notebook - ERROR - Error during data unification: name 'AmharicTextProcessor' is not defined
+2025-06-23 19:20:34,487 - task1_notebook - INFO - Starting data unification and preprocessing
+2025-06-23 19:20:34,491 - task1_notebook - ERROR - Error during data unification: name 'AmharicTextProcessor' is not defined
+2025-06-23 19:40:01,103 - task1_notebook - INFO - Task 1 notebook logging initialized
+2025-06-23 19:40:28,559 - task1_notebook - INFO - Starting Telegram data scraping
+2025-06-23 19:40:28,584 - telethon.network.mtprotosender - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-06-23 19:40:28,730 - telethon.network.mtprotosender - INFO - Connection to 149.154.167.51:443/TcpFull complete!
