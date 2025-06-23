@@ -1,0 +1,20 @@
+2025-06-21 01:24:00,121 - CRITICAL - Failed to start Telegram client session: Returned when all available options for this type of number were already used (e.g. flash-call, then SMS, then this error might be returned to trigger a second resend) (caused by ResendCodeRequest)
+Traceback (most recent call last):
+  File "C:\Users\hp\OneDrive\Documents\programs\projects\Amharic-E-commerce-NER\src\data_collection\telegram_scraper.py", line 75, in start_session
+    await self.client.start()
+  File "c:\Users\hp\OneDrive\Documents\programs\projects\Amharic-E-commerce-NER\.venv_py311\Lib\site-packages\telethon\client\auth.py", line 230, in _start
+    me = await self.sign_in(phone=phone, password=value)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hp\OneDrive\Documents\programs\projects\Amharic-E-commerce-NER\.venv_py311\Lib\site-packages\telethon\client\auth.py", line 329, in sign_in
+    return await self.send_code_request(phone)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hp\OneDrive\Documents\programs\projects\Amharic-E-commerce-NER\.venv_py311\Lib\site-packages\telethon\client\auth.py", line 459, in send_code_request
+    result = await self(
+             ^^^^^^^^^^^
+  File "c:\Users\hp\OneDrive\Documents\programs\projects\Amharic-E-commerce-NER\.venv_py311\Lib\site-packages\telethon\client\users.py", line 30, in __call__
+    return await self._call(self._sender, request, ordered=ordered)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "c:\Users\hp\OneDrive\Documents\programs\projects\Amharic-E-commerce-NER\.venv_py311\Lib\site-packages\telethon\client\users.py", line 83, in _call
+    result = await future
+             ^^^^^^^^^^^^
+telethon.errors.rpcerrorlist.SendCodeUnavailableError: Returned when all available options for this type of number were already used (e.g. flash-call, then SMS, then this error might be returned to trigger a second resend) (caused by ResendCodeRequest)

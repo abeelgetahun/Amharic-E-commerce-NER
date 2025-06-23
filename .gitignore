@@ -1,0 +1,51 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+
+# C extensions
+*.so
+
+.env
+
+
+#telegram session
+*.session
+
+
+# Distribution / packaging
+.Python
+env/
+.venv_py311/
+lib/
+data/
+build/
+develop-eggs/
+dist/
+eggs/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Editors
+.vscode/
+.idea/
+
+# Jupyter Notebook files
+.ipynb_checkpoints/
+
+# Data
+data/raw/ # Exclude large raw data from Git, consider LFS if needed
+data/processed/ # Exclude processed data too, generate from raw
+data/labeled/validation_split/ # Can be excluded if generated
+models/ # Exclude large model checkpoints, use LFS or cloud storage
+
+# Reports
+reports/*.pdf # Can be excluded if generated from notebooks/scripts
+
+# OS generated files
+.DS_Store
+.ipynb_checkpoints
+Thumbs.db

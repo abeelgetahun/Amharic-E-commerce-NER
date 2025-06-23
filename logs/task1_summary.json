@@ -1,0 +1,16 @@
+{
+  "execution_time": "2025-06-23T20:28:40.670057",
+  "status": "completed",
+  "data_collected": 1403,
+  "files_created": [
+    "../data/raw/telegram_scrapes/",
+    "../data/processed/unified_dataset.csv",
+    "../data/processed/unified_dataset.json",
+    "../data/processed/dataset_summary.json"
+  ],
+  "next_steps": [
+    "Review data quality",
+    "Proceed to Task 2: Data Labeling",
+    "Prepare CoNLL format dataset"
+  ]
+}

@@ -1,0 +1,12 @@
+# Python package dependencies  
+telethon==1.28.5
+pandas==2.0.3
+numpy==1.24.3
+python-dotenv==1.0.0
+pyyaml==6.0
+regex==2023.6.3
+nltk==3.8.1
+beautifulsoup4==4.12.2
+asyncio==3.4.3
+aiofiles==23.1.0
+python-dateutil==2.8.2
