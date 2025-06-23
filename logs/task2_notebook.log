@@ -1,0 +1,16 @@
+2025-06-23 20:22:19,482 - task2_notebook - INFO - Task 2 notebook logging initialized
+2025-06-23 20:22:43,222 - task2_notebook - INFO - Task 2 notebook logging initialized
+2025-06-23 20:24:14,736 - task2_notebook - INFO - Task 2 notebook logging initialized
+2025-06-23 20:24:18,997 - task2_notebook - INFO - Task 2 notebook logging initialized
+2025-06-23 20:24:51,594 - task2_notebook - INFO - Task 2 notebook logging initialized
+2025-06-23 20:25:03,884 - task2_notebook - INFO - Task 2 notebook logging initialized
+2025-06-23 20:25:07,565 - task2_notebook - INFO - Task 2 notebook logging initialized
+2025-06-23 20:46:41,308 - task2_notebook - INFO - Task 2 notebook logging initialized
+2025-06-23 20:46:48,114 - task2_notebook - ERROR - Error loading preprocessed data: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+2025-06-23 20:48:16,951 - task2_notebook - ERROR - Error loading preprocessed data: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+2025-06-23 20:49:52,439 - task2_notebook - ERROR - Error loading preprocessed data: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+2025-06-23 20:50:50,315 - task2_notebook - INFO - Task 2 notebook logging initialized
+2025-06-23 20:50:56,730 - task2_notebook - INFO - Task 2 notebook logging initialized
+2025-06-23 20:51:00,474 - task2_notebook - ERROR - Error loading preprocessed data: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)
+2025-06-23 20:56:38,736 - conll_formatter - INFO - CoNLL dataset saved to data\labeled\conll_format\auto_labeled_training.conll
+2025-06-23 21:00:30,089 - task2_notebook - INFO - Task 2 notebook execution completed
