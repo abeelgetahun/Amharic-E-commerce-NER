@@ -7,6 +7,7 @@ from typing import List, Dict, Optional
 import pandas as pd
 from telethon import TelegramClient
 from telethon.errors import FloodWaitError, ChannelPrivateError
+from datetime import timezone
 import yaml
 from pathlib import Path
 
@@ -42,12 +43,15 @@ class TelegramScraper:
         
         try:
             entity = await self.client.get_entity(channel_username)
-            self.logger.info(f"Starting to scrape channel: {channel_username}")
+            if not entity:
+                self.logger.warning(f"Channel {channel_username} not found")
+                return []
             
-            # Calculate date range
-            end_date = datetime.now()
+            # To this (add timezone awareness):
+           
+            end_date = datetime.now(timezone.utc)
             start_date = end_date - timedelta(days=self.config['scraping_config']['date_range_days'])
-            
+
             message_count = 0
             async for message in self.client.iter_messages(entity, limit=max_messages):
                 if message.date < start_date:
@@ -76,9 +80,9 @@ class TelegramScraper:
             await asyncio.sleep(e.seconds)
             return await self.scrape_channel(channel_username, max_messages)
         except Exception as e:
-            self.logger.error(f"Error scraping {channel_username}: {str(e)}")
+            self.logger.error(f"Error scraping {channel_username}: {str(e)}", exc_info=True)
             return []
-    
+        
     async def _extract_message_data(self, message, channel_username: str) -> Optional[Dict]:
         """Extract relevant data from a message"""
         if not message.text and not message.media:
