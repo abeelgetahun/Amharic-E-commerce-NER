@@ -8,10 +8,12 @@ __pycache__/
 *.so
 
 .env
+ 
 
 #telegram session
 *.session
 
+ 
 # Distribution / packaging
 .Python
 env/
