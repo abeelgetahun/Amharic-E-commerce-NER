@@ -9,6 +9,9 @@ __pycache__/
 
 .env
 
+#telegram session
+*.session
+
 # Distribution / packaging
 .Python
 env/
