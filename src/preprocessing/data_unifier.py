@@ -9,9 +9,11 @@ from preprocessing.amharic_processor import AmharicTextProcessor
 class DataUnifier:
     def __init__(self, raw_data_path: str = "data/raw/telegram_scrapes"):
         self.raw_data_path = Path(raw_data_path)
-        self.processed_data_path = Path("data/processed")
+        # Always resolve path from project root, not from notebook location
+        project_root = Path(__file__).resolve().parent.parent.parent
+        self.processed_data_path = project_root / "data" / "processed"
         self.processed_data_path.mkdir(parents=True, exist_ok=True)
-        
+
         self.logger = logging.getLogger('data_unifier')
         self.text_processor = AmharicTextProcessor()
     

@@ -26,6 +26,8 @@ class TelegramScraper:
     def _setup_logger(self) -> logging.Logger:
         logger = logging.getLogger('telegram_scraper')
         logger.setLevel(logging.INFO)
+        # Ensure the logs directory exists
+        os.makedirs('logs', exist_ok=True)
         handler = logging.FileHandler('logs/scraping.log', encoding='utf-8')
         formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
         handler.setFormatter(formatter)
