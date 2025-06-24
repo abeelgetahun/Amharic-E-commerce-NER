@@ -240,7 +240,9 @@ class CoNLLFormatter:
     
     def save_conll_dataset(self, conll_content: str, filename: str = "training_data.conll"):
         """Save CoNLL formatted data to file"""
-        output_path = Path("data/labeled/conll_format")
+        project_root = Path(__file__).resolve().parent.parent.parent
+        processed_data_path = project_root / "data" / "labeled" / "conll_format"
+        output_path = Path(processed_data_path)
         output_path.mkdir(parents=True, exist_ok=True)
         
         file_path = output_path / filename
